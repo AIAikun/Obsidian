@@ -7,6 +7,7 @@
 - 检查是否配置好
 	终端输入`protoc`
 # 2. 安装grpc的核心库
+在项目文件夹下
 `go get google.golang.org/grpc`
 # 3. 安装代码生成工具
 ![[Pasted image 20240730214936.png]]
