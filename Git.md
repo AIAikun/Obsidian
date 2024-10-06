@@ -1,5 +1,4 @@
-1. ## 配置
-    
+## 1. 配置
 
 配置是说明性的,可以随意写
 
@@ -8,8 +7,7 @@ $ git config --global user.name "我的名字"
 $ git config --global user.email laowang@example.com
 ```
 
-2. ## 创建仓库
-    
+## 2.创建仓库
 
 在本地项目的文件夹里输入
 
@@ -19,8 +17,7 @@ $ git init
 
 文件夹就变成了git仓库
 
-3. ## 克隆网上项目
-    
+## 3.克隆网上项目
 
 ```Go
 $ git clone https://github.com/torvalds/linux.git 
@@ -28,8 +25,7 @@ $ git clone https://github.com/torvalds/linux.git
 
 git clone +网上项目的url
 
-4. ## 跟踪文件和目录
-    
+## 4.跟踪文件和目录
 
 ```Go
 $ git add <name>
@@ -65,8 +61,7 @@ $ git checkout -- test.txt
 $ git rm --cache <name>
 ```
 
-5. ## 设置为缓存状态
-    
+## 5. 设置为缓存状态
 
 对跟踪的文件可以进行修改，修改完成后通过git add将他的状态设置为缓存状态
 
@@ -80,8 +75,7 @@ $ git add <file-name>
 $ git reset HEAD <name>
 ```
 
-6. ## 提交修改
-    
+## 6. 提交修改
 
 在缓存状态修改后，可以通过git commit命令来提交此次更改
 
@@ -90,11 +84,8 @@ $ git commit -m
 ```
 
 ## 仓库状态总结
-
-![](https://diangroup.feishu.cn/space/api/box/stream/download/asynccode/?code=M2IwNDg5NTVkN2NkZDgzMGNjN2VlNjJlYjIwZWY0ZGRfNVdxSDlMdmJvdGh1YmsweXVtZVBQYzhudUJ6bzc0UXRfVG9rZW46SXRYaGJDVmZPb1d2WDJ4ZGZESmNiTDlibnNjXzE3MjgyMDY0ODM6MTcyODIxMDA4M19WNA)
-
-7. ## 取消提交
-    
+![[Pasted image 20241006204347.png]]
+## 7.取消提交
 
 取消此次提交，但是不能取消第一次提交，只能取消第二次、第三次等。下面有更详细的解释。
 
@@ -120,8 +111,7 @@ $ git checkout -- readme.txt
 
 场景2：当你不但改乱了工作区某个文件的内容，还添加到了暂存区时，想丢弃修改，分两步，第一步用命令`git reset HEAD <file>`，就回到了场景1，第二步按场景1操作。
 
-8. ## 查询
-    
+## 8.查询
 
 查询文件状态，查看工作区的状态
 
@@ -165,9 +155,7 @@ $ git log --pretty=oneline
 $ git log --graph
 ```
 
-9. ## 链接远程仓库
-    
-
+## 9.链接远程仓库
 ```Go
 $ git remote add origin https://github.com/gaodijian/test,git
 ```
@@ -196,21 +184,17 @@ Git push +仓库名+分支类型
 
 之后需要鉴权
 
-10. ## Token方式鉴权
-    
+## 10.Token方式鉴权
 
 github默认禁止用户名加密码的验证方式了
 
 解决办法：
 
 打开github的settings,打开最后的the developer settings,点击 personal access tokens ，点击tokens，生成一个令牌，用这个令牌去当密码。把有关仓库的权限全部打开，如图
-
-![](https://diangroup.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTQyZDNiN2ViZDQxNWYwNDdjZTU4ZjM1ODVkMDgxOTRfS2p3R200Wlhzalc4WlpIVEh2MEFUeUU2aW8xT0pGQWVfVG9rZW46SktBMWJmNFFHb1JFQXl4ZnBmYmNTUTVXbmJvXzE3MjgyMDY0ODM6MTcyODIxMDA4M19WNA)
-
+![[Pasted image 20241006204449.png]]
 点击生成，复制，再次push，密码中复制一下token，即可上传成功。
 
-11. ## SSH协议
-    
+## 11.SSH协议
 
 ```Go
 cd ~/.ssh
@@ -235,26 +219,16 @@ cat test.pub
 ```
 
 查看公钥的内容
-
 将公钥复制，打开github的setting
-
 选择
-
-![](https://diangroup.feishu.cn/space/api/box/stream/download/asynccode/?code=MjE0Y2Y0YTA3MmRiOWVlOGJlYzIyNjk5OGUzZjYwNmJfamZQZ2liS1FlM2xoZ0xmWjBpT2E4RHZ5NXY3c1JsV1NfVG9rZW46VUI4MmJRckZjb2dvSlB4UjJwbGN3ajJibkhzXzE3MjgyMDY0ODM6MTcyODIxMDA4M19WNA)
-
+![[Pasted image 20241006204551.png]]
 添加密钥即可。
-
 回到仓库，复制SSH
-
-![](https://diangroup.feishu.cn/space/api/box/stream/download/asynccode/?code=MDJkZTYyNjNjOGQ2MTNmYTkyOGU4NDlkMWU2ZGQ2ZTVfejJnNGRCRlpMc3NDcFhab1dCUWN6SzdLaUNMd0taUmlfVG9rZW46SGZKYmJjeE1Sb2lEUG14cGw2TGNHNk5KbmJoXzE3MjgyMDY0ODM6MTcyODIxMDA4M19WNA)
-
+![[Pasted image 20241006204606.png]]
 在空项目里git clone 即可，不需要输入密码。
 
-12. ## Branch分支
-    
-
+## 12.Branch分支
 创建新分支
-
 ```Go
 git branch feature1
 ```
@@ -317,8 +291,7 @@ git checkout -b feature1 origin/feature1
 git check out --track origin/feature1
 ```
 
-13. ## Git 的储藏stash的功能
-    
+## 13.Git 的储藏stash的功能
 
 储存当时我们所修改的东西
 
@@ -362,8 +335,7 @@ git stash pop
 git stash drop stash@{0}
 ```
 
-14. ## 重置功能
-    
+## 14.重置功能
 
 取消此次提交，但是不能取消第一次提交，只能取消第二次、第三次等。
 
@@ -379,14 +351,12 @@ Head 表示当前的提交，head~表示上次的提交，head~2，表示倒数�
 git checkout B//切换到b分支
 ```
 
-![](https://diangroup.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDJiMzc4MzE0YzBiZmMwZTA3NzZhMjAzNmM0MTIxNDVfbjMzWE5IOUM0ODQxbDFHeXBQRHUxdHFDRVFlTjMyNDlfVG9rZW46Q0V1VWJZdVd1b1pEMXl4ckJodGNBeGpobmFjXzE3MjgyMDY0ODM6MTcyODIxMDA4M19WNA)
-
-```Go
+![[Pasted image 20241006204656.png]]
+```shell
 git rebase A//变基，将A分支合并到B分支
 ```
 
-![](https://diangroup.feishu.cn/space/api/box/stream/download/asynccode/?code=ODI1ZWY4ZTVjNDY1ZmM1YjMzODA0ZWUwYmM0MDJiZjlfTmozeHU1ajlBWEhmemZCNlZSWHhhMGVOVlNSaDBlNjJfVG9rZW46VEpxSGJEWjRQb2VNTEl4eldEYmNtUjNLblVoXzE3MjgyMDY0ODM6MTcyODIxMDA4M19WNA)
-
+!![[Pasted image 20241006204724.png]]
 注：若分支提交到了远程分支上，若他人用你的分支进行二次开发，则不能对这个分支rebase了。
 
 rebase还有强大功能：交互式操作
@@ -398,18 +368,18 @@ git rebase -i head~3
 ```
 
 会进入到交互式的界面
-
-![](https://diangroup.feishu.cn/space/api/box/stream/download/asynccode/?code=MTQ5NWE4ZDAwYWU2NzI5NWI1YzkxNjA1MWFmODNlNjdfYzVGbHExNU82NWRmSm13NjV1ZFpIWkFKbzdmZDU3cXNfVG9rZW46T2szZ2I1R2ROb1JaU1B4cmc5d2NaZWxpbjVOXzE3MjgyMDY0ODM6MTcyODIxMDA4M19WNA)
-
+![[Pasted image 20241006204735.png]]
 Pick 表示不会修改，将pick改成edit,然后保存退出交互界面，就可按照提示修改这次提交。也可以在交互界面直接删除一次提交。将pick改为squash表示压缩这次提交，并将修改内容移到前一个提交上面，
 
-15. ## 标签管理
-    
+## 15.标签管理
 
 在Git中打标签非常简单，首先，切换到需要打标签的分支上：
 
-- $ git branch dev master $ git checkout master Switched to branch 'master'
-    
+- $ git branch 
+- dev 
+- master 
+- $ git checkout master 
+- Switched to branch 'master'
 
 然后，敲命令`git tag <name>`就可以打一个新标签：
 
@@ -489,7 +459,7 @@ version 0.1 released
 commit 1094adb7b9b3807259d8cb349e7df1d4d6477073 (tag: v0.1)
 Author: Michael Liao <askxuefeng@gmail.com
 Date:   Fri May 18 21:06:15 2018 +0800
-    append GPL
+  append GPL
 diff --git a/readme.txt b/readme.txt
 ...
 ```

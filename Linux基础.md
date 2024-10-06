@@ -10,7 +10,7 @@
 操作系统（OS）是管理计算机硬件与软件资源的系统软件，它是用户和计算机硬件之间的接口。
 
 操作系统可以理解为是一个特殊的“程序”。
-
+![[Pasted image 20241006210119.png]]
 ### 操作系统基本功能
 
 1. **进程管理**
@@ -93,9 +93,7 @@
     
     - 分时系统以时间片管理进程
         
-    
-    ![](https://diangroup.feishu.cn/space/api/box/stream/download/asynccode/?code=Y2Q2ODI2Mjk2MWQ4ODdjZDhiOWEzMGU4ZTc5NmFlMjlfMkJMc2tsbjBTdUd6ZWwwbnc2M2dpdVVEcFdrRWJZc2RfVG9rZW46SEJqZ2JJbk01b01MMFZ4Zk5sR2NhWGZabk5mXzE3MjgyMDYzMzM6MTcyODIwOTkzM19WNA)
-    
+![[Pasted image 20241006210054.png]]
 
   
 
@@ -184,7 +182,7 @@
 ### Linux Kernel
 
 Linux内核是整个Linux操作系统的心脏，负责与系统的所有硬件进行交互，同时也为上层的应用程序提供核心服务的支持。
-
+![[Pasted image 20241006210021.png]]
 
 - 进程管理 (fork, exec)
     
@@ -279,14 +277,6 @@ Linux发行版是基于Linux内核，结合一系列用户程序、工具和管�
     1. 特点：轻量级，安全，主要用于服务器和容器环境，使用`apk`包管理。
         
 
-  
-
-  
-
-## 实际操作
-
-[2024春新人培训服务器](https://diangroup.feishu.cn/sheets/RpYvsgKzRhWpYht00sGcZSIzn3k?from=from_copylink)
-
 ### SSH
 
 SSH，即Secure Shell，是一种网络协议，用于加密方式安全地连接和管理远程计算机。
@@ -307,23 +297,14 @@ ssh username@hostname -p port
 
 其中，`username` 是你在远程机器上的用户名，`hostname` 是远程机器的域名或IP地址，`port`是端口号。如果不指定的话，SSH的默认端口号是`22`。如果连接成功，将被提示输入该用户的密码。
 
-  
-
 #### 跳板机
 
 跳板机是一种用于从一个网络到另一个网络的中转站。
 
-暂时无法在飞书文档外展示此内容
+![[Pasted image 20241006210155.png]]
 
 **注意**：跳板机是一种在团队外部（指启明学院亮胜楼七楼）访问团队内网的方式，限制内网的访问是对团队内网的一种保护。大家连接服务器一定要注意安全问题。跳板机带宽有限，传输文件请到团队内网，就是要多来团队坐坐啦～
 
-团队跳板机：dian.org.cn
-
-账号：public
-
-密码：ljzzy@beibei
-
-端口：2222 2223（在韵苑宿舍使用2223，登不上就试试另一个）
 
 ```Bash
  ssh -J public@dian.org.cn:2222 lalala@192.168.0.233 -p 6666
@@ -331,7 +312,6 @@ ssh username@hostname -p port
 
 上述指令的作用是，通过跳板机（`public`账号，`dian.org``.cn`地址，`222`端口）连接`192.168.0.233`地址的服务器，用户是`lalala`，端口是`6666`。
 
-  
 
 #### SSH config配置
 
@@ -619,13 +599,6 @@ find /path/to/search -name "*.txt"   # 查找所有.txt文件
 grep -i "search_term" file.txt   # 在文件中不区分大小写地搜索文本
 ```
 
-  
-
-查看一下之前创建的`authorized_keys`文件的修改日期，更新一下它的修改时间。
-
-搜索一下`authorized_keys`文件中，之前在key中添加的注释。
-
-  
 
 ### 用户管理
 
@@ -741,19 +714,7 @@ sudo su
 
 **注意事项**：运行 `sudo` 命令意味着将以超级用户权限（root）执行命令。这种权限允许用户对系统进行任何修改，包括那些可能对系统稳定性和安全性产生重大影响的操作。因此，在使用 `sudo` 执行命令前，应确保了解该命令的功能和潜在影响。
 
-在使用 `sudo` 执行命令前，应确保了解该命令的功能和潜在影响。
-
-在使用 `sudo` 执行命令前，应确保了解该命令的功能和潜在影响。
-
-在使用 `sudo` 执行命令前，应确保了解该命令的功能和潜在影响。
-
 Linux系统中，root账户拥有最高的权限。为了安全，一般会禁止使用root账户ssh登录服务器。
-
-请使用以上指令，创建一个新的用户，设置用户名和密码，并将其添加到sudo用户组使其拥有执行sudo的权限。请记住你的用户名和密码！
-
-然后使用你设置的用户重新登录服务器。
-
-  
 
 #### 文件系统权限
 
@@ -890,16 +851,6 @@ Vim 是一种强大的文本编辑器，以其模式编辑功能而闻名，广�
             
         - `:%s/old/new/g`：将整个文件中的 `old` 替换为 `new`。
             
-
-  
-
-你新建的用户是不是还没有免密登录？快试试好用的vim编辑器！
-
-在你新建的用户下创建`authorized_keys`文件，使用vim将你的公钥粘贴进去。
-
-试试免密登录！
-
-  
 
 ### 包管理工具
 
