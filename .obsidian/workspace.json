@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f84b2d68090d6a80",
+        "id": "fec159da1441de3e",
         "type": "tabs",
         "children": [
           {
-            "id": "8c7846db08de80cb",
+            "id": "95a5b4ee4adb95e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang-Context.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang-Context.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golang-Context.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang-Context.md"
+                "file": "Git.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8c7846db08de80cb",
+  "active": "95a5b4ee4adb95e9",
   "lastOpenFiles": [
-    "().md",
+    "Git.md",
+    "Linux基础.md",
+    "Linux+Git.md",
     "golang-Context.md",
+    "().md",
     "Golang方法.md",
     "grpc/Protobuf安装.md",
     "grpc/客户端和服务端编写.md",
@@ -184,8 +187,6 @@
     "联创2024夏令营后端/UniqueStdio-Summer-Camp/哈希表​.md",
     "联创2024夏令营后端/UniqueStdio-Summer-Camp/README.md",
     "联创2024夏令营后端/UniqueStdio-Summer-Camp/Linux基本概念和命令等补充学习.md",
-    "联创2024夏令营后端/未命名.md",
-    "数据结构.md",
-    "联创2024夏令营后端/Linux基本概念和命令补充学习.md"
+    "联创2024夏令营后端/未命名.md"
   ]
 }
