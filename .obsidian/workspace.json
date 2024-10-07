@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gorm+Mysql/单表查询.md",
+                "file": "grpc/SSL TLS认证方式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gorm+Mysql/单表查询.md",
+                "file": "grpc/SSL TLS认证方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gorm+Mysql/单表查询.md",
+                "file": "grpc/SSL TLS认证方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gorm+Mysql/单表查询.md"
+                "file": "grpc/SSL TLS认证方式.md"
               }
             }
           }
@@ -143,13 +143,21 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "b4e0a088a269f8b2",
   "lastOpenFiles": [
-    "Gorm+Mysql/模型定义.md",
+    "grpc/认证-安全传输.md",
+    "grpc/SSL TLS认证方式.md",
+    "grpc/客户端和服务端编写.md",
+    "photo/Pasted image 20241007195439.png",
+    "grpc/proto文件编写.md",
+    "grpc/proto文件介绍.md",
+    "grpc/Protobuf安装.md",
     "Gorm+Mysql/单表查询.md",
+    "Gorm+Mysql/模型定义.md",
     "Gorm+Mysql/简单链接.md",
     "Gorm+Mysql/入门.md",
     "Redis/遍历.md",
@@ -166,7 +174,6 @@
     "Redis/集合Set.md",
     "photo/Pasted image 20241006214125.png",
     "Redis/列表List.md",
-    "photo/Pasted image 20241006214052.png",
     "Redis/散列表（哈希表、Hash）.md",
     "Redis/字符串.md",
     "Redis/Redis入门.md",
@@ -183,13 +190,6 @@
     "Go",
     "Linux+Git.md",
     "Linux基础.md",
-    "().md",
-    "grpc/Protobuf安装.md",
-    "grpc/客户端和服务端编写.md",
-    "grpc/认证-安全传输.md",
-    "grpc/proto文件编写.md",
-    "grpc/proto文件介绍.md",
-    "联创2024夏令营后端/图.md",
     "联创2024夏令营后端/cpp/linkedList/Single-LinkedList.cpp",
     "联创2024夏令营后端/cpp/linkedList/Double-LinkedList.cpp",
     "联创2024夏令营后端/cpp/graph/topologicalSort.cpp",

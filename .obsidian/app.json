@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "photo"
+  "attachmentFolderPath": "photo",
+  "promptDelete": false
 }
