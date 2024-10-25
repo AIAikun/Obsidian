@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4e0a088a269f8b2",
+            "id": "7d58ef3c9afb3347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grpc/SSL TLS认证方式.md",
+                "file": "初步使用nvm、npm.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "初步使用nvm、npm"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grpc/SSL TLS认证方式.md",
+                "file": "Sql语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Sql语法 的反向链接列表"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grpc/SSL TLS认证方式.md",
+                "file": "Sql语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Sql语法 的出链列表"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grpc/SSL TLS认证方式.md"
-              }
+                "file": "初步使用nvm、npm.md"
+              },
+              "icon": "lucide-list",
+              "title": "初步使用nvm、npm 的大纲"
             }
           }
         ],
@@ -147,20 +163,30 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b4e0a088a269f8b2",
+  "active": "7d58ef3c9afb3347",
   "lastOpenFiles": [
-    "grpc/认证-安全传输.md",
+    "Git.md",
+    "初步使用nvm、npm.md",
+    "Sql语法.md",
+    "Gorm+Mysql/单表查询.md",
+    "Gorm+Mysql/模型定义.md",
+    "Gorm+Mysql/简单链接.md",
+    "Gorm+Mysql/入门.md",
+    "Redis/散列表（哈希表、Hash）.md",
+    "Redis/列表List.md",
+    "Redis/集合Set.md",
+    "Redis/遍历.md",
+    "Redis/Redis入门.md",
+    "photo/Pasted image 20241019170851.png",
+    "Linux基础.md",
+    "Linux+Git.md",
     "grpc/SSL TLS认证方式.md",
+    "grpc/认证-安全传输.md",
     "grpc/客户端和服务端编写.md",
     "photo/Pasted image 20241007195439.png",
     "grpc/proto文件编写.md",
     "grpc/proto文件介绍.md",
     "grpc/Protobuf安装.md",
-    "Gorm+Mysql/单表查询.md",
-    "Gorm+Mysql/模型定义.md",
-    "Gorm+Mysql/简单链接.md",
-    "Gorm+Mysql/入门.md",
-    "Redis/遍历.md",
     "Gorm+Mysql",
     "photo/Pasted image 20241006214341.png",
     "photo/Pasted image 20241006214330.png",
@@ -171,14 +197,8 @@
     "photo/Pasted image 20241006214216.png",
     "photo/Pasted image 20241006214205.png",
     "photo/Pasted image 20241006214152.png",
-    "Redis/集合Set.md",
-    "photo/Pasted image 20241006214125.png",
-    "Redis/列表List.md",
-    "Redis/散列表（哈希表、Hash）.md",
     "Redis/字符串.md",
-    "Redis/Redis入门.md",
     "Redis/Redis基本操作.md",
-    "Sql语法.md",
     "Redis",
     "photo/未命名.canvas",
     "photo",
@@ -186,10 +206,7 @@
     "SQ;",
     "Go/golang-Context.md",
     "Go/Golang方法.md",
-    "Git.md",
     "Go",
-    "Linux+Git.md",
-    "Linux基础.md",
     "联创2024夏令营后端/cpp/linkedList/Single-LinkedList.cpp",
     "联创2024夏令营后端/cpp/linkedList/Double-LinkedList.cpp",
     "联创2024夏令营后端/cpp/graph/topologicalSort.cpp",

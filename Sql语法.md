@@ -1,7 +1,5 @@
 ## mysql下载
 
-详细介绍下载和安装：[https://blog.csdn.net/chenshifu888/article/details/137479850]
-
 MYSQL官网：[https://www.mysql.com/downloads/]
 
 ## 网课

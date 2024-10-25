@@ -11,7 +11,7 @@ https://redis.io/docs/latest/get-started/
 ## 3.教程
     
 
-菜鸟教程：https://www.runoob.com/redis/redis-tutorial.html
+菜鸟教程：[https://www.runoob.com/redis/redis-tutorial.html]
 
 ## 4.安装和启动Redis
 
@@ -29,7 +29,5 @@ https://redis.io/docs/latest/get-started/
     
 5. redis-cli 之后键入ping ,若回复PONG,则安装成功（检测是否安装成功）
     
-
-![](https://diangroup.feishu.cn/space/api/box/stream/download/asynccode/?code=M2VjOTE0NzYzYzlmMjdkYjI5ZjJlMmVlM2NhN2E5NjJfbkhZMUJ4dU8yWHhNVXV5Z1JwV2h4SXBxWTFqZ09BcDlfVG9rZW46VjExOGI0b0dubzIzOVp4N3k3SWNqYnFLblJjXzE3MjgyMjE0NTY6MTcyODIyNTA1Nl9WNA)
-
+![[Pasted image 20241019170851.png]]
 按ctrl+c退出
