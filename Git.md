@@ -90,7 +90,7 @@ $ git commit -m
 取消此次提交，但是不能取消第一次提交，只能取消第二次、第三次等。下面有更详细的解释。
 
 ```Go
-$ git reset head~--soft
+$ git reset head~ -- soft
 ```
 
 `git checkout -- file`可以丢弃工作区的修改：
