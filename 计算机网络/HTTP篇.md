@@ -222,7 +222,7 @@ Accept: audio/*; q=0.2, audio/basic
 ![[Pasted image 20250208192906.png]]
 #### TLS 第⼀次握⼿
 客户端⾸先会发⼀个**Client Hello**消息。
-消息᯾⾯有客户端使⽤的 TLS 版本号、⽀持的密码套件列表，以及⽣成的**随机数（Client Random）**，这个随机数会被服务端保留。
+消息里⾯有客户端使⽤的 TLS 版本号、⽀持的密码套件列表，以及⽣成的**随机数（Client Random）**，这个随机数会被服务端保留。
 #### TLS 第⼆次握⼿
 当服务端收到客户端的「Client Hello」消息后，会确认 TLS 版本号是否⽀持，和从密码套件列表中选择⼀个密码套件，以及⽣成**随机数（Server Random）**。
 返回「Server Hello」消息，消息里⾯有服务器确认的 TLS 版本号，也给出了随机数 （Server Random），然后从客户端的密码套件列表选择了⼀个合适的密码套件。
