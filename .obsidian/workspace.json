@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc8e8715e32e75b3",
+        "id": "d2270da0aa0057c0",
         "type": "tabs",
         "children": [
           {
-            "id": "6c97461f47b8890f",
+            "id": "b86712e8097075bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/TCP篇.md",
+                "file": "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP篇"
+              "title": "MySQL 一行记录是怎么存储的？"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed4983156d3aa84f",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sql语法.md",
+                "file": "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Sql语法 的反向链接列表"
+              "title": "MySQL 一行记录是怎么存储的？ 的反向链接列表"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sql语法.md",
+                "file": "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Sql语法 的出链列表"
+              "title": "MySQL 一行记录是怎么存储的？ 的出链列表"
             }
           },
           {
@@ -129,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/TCP篇.md",
+                "file": "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TCP篇 的大纲"
+              "title": "MySQL 一行记录是怎么存储的？ 的大纲"
             }
           }
         ],
@@ -168,35 +169,41 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6c97461f47b8890f",
+  "active": "b86712e8097075bb",
   "lastOpenFiles": [
+    "photo/Pasted image 20250305215810.png",
+    "Pasted.md",
+    "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
+    "photo/Pasted image 20250305214258.png",
+    "photo/Pasted image 20250305213144.png",
+    "photo/Pasted image 20250305212907.png",
+    "MySQL/基础篇/执行一条 select 语句，期间发生了什么？.md",
+    "photo/Pasted image 20250305175847.png",
+    "photo/Pasted image 20250305171946.png",
+    "photo/Pasted image 20250305171520.png",
+    "计算机网络/HTTP篇.md",
+    "MySQL/基础篇",
+    "MySQL/基础篇.md",
+    "计算机网络/基础篇.md",
+    "MySQL",
+    "grpc/SSL TLS认证方式.md",
+    "未命名.canvas",
+    "grpc/proto文件编写.md",
+    "grpc/proto文件介绍.md",
+    "grpc/认证-安全传输.md",
+    "grpc/客户端和服务端编写.md",
+    "grpc/Protobuf安装.md",
+    "计算机网络/TCP篇.md",
     "photo/Pasted image 20250305102404.png",
     "photo/Pasted image 20250305102250.png",
     "photo/Pasted image 20250305095541.png",
     "photo/Pasted image 20250305095432.png",
-    "photo/Pasted image 20250305095249.png",
-    "photo/Pasted image 20250305095127.png",
-    "photo/Pasted image 20250305095108.png",
-    "photo/Pasted image 20250305094702.png",
-    "photo/Pasted image 20250305094656.png",
-    "photo/Pasted image 20250305091317.png",
-    "photo/Pasted image 20250305085152.png",
-    "计算机网络/HTTP篇.md",
-    "计算机网络/TCP篇.md",
     "鉴权.md",
     "初步使用nvm、npm.md",
     "Git.md",
     "Linux+Git.md",
     "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
-    "grpc/SSL TLS认证方式.md",
-    "grpc/Protobuf安装.md",
-    "grpc/proto文件介绍.md",
-    "grpc/proto文件编写.md",
-    "grpc/认证-安全传输.md",
-    "grpc/客户端和服务端编写.md",
-    "未命名.canvas",
     "2025-03-03.md",
-    "计算机网络/基础篇.md",
     "UniqueStdio-Summer-Camp/树.md",
     "UniqueStdio-Summer-Camp/排序.md",
     "UniqueStdio-Summer-Camp/cpp/Binarytree/g00f3zma.wgh~",
@@ -207,16 +214,10 @@
     "Go/深入理解Go module.md",
     "Go/golang-Context.md",
     "Go/Golang方法.md",
-    "().md",
     "计算机网络",
-    "Gorm+Mysql/单表查询.md",
-    "Gorm+Mysql/模型定义.md",
-    "Gorm+Mysql/入门.md",
     "Gorm+Mysql",
     "Redis",
     "photo/未命名.canvas",
-    "photo",
-    "SQ;",
-    "Go"
+    "photo"
   ]
 }
