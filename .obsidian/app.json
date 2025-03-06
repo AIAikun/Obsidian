@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "photo",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false
 }

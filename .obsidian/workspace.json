@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
+                "file": "MySQL/索引篇/索引常见面试题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MySQL 一行记录是怎么存储的？"
+              "title": "索引常见面试题"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed4983156d3aa84f",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
+                "file": "MySQL/索引篇/索引常见面试题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MySQL 一行记录是怎么存储的？ 的大纲"
+              "title": "索引常见面试题 的大纲"
             }
           }
         ],
@@ -171,16 +172,25 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
+    "计算机网络/TCP篇.md",
+    "MySQL/索引篇/索引常见面试题.md",
+    "photo/Pasted image 20250306093516.png",
+    "photo/Pasted image 20250306093415.png",
+    "photo/Pasted image 20250306092756.png",
+    "photo/Pasted image 20250306092640.png",
+    "MySQL/基础篇/执行一条 select 语句，期间发生了什么？.md",
+    "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
+    "photo/Pasted image 20250306092008.png",
+    "photo/Pasted image 20250306090555.png",
+    "MySQL/索引篇",
+    "photo/Pasted image 20250306090223.png",
+    "photo/Pasted image 20250306090152.png",
+    "Go/Golang方法.md",
+    "Go/golang-Context.md",
+    "Go/深入理解Go module.md",
+    "photo/Pasted image 20250306083841.png",
     "photo/Pasted image 20250305215810.png",
     "Pasted.md",
-    "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
-    "photo/Pasted image 20250305214258.png",
-    "photo/Pasted image 20250305213144.png",
-    "photo/Pasted image 20250305212907.png",
-    "MySQL/基础篇/执行一条 select 语句，期间发生了什么？.md",
-    "photo/Pasted image 20250305175847.png",
-    "photo/Pasted image 20250305171946.png",
-    "photo/Pasted image 20250305171520.png",
     "计算机网络/HTTP篇.md",
     "MySQL/基础篇",
     "MySQL/基础篇.md",
@@ -193,11 +203,6 @@
     "grpc/认证-安全传输.md",
     "grpc/客户端和服务端编写.md",
     "grpc/Protobuf安装.md",
-    "计算机网络/TCP篇.md",
-    "photo/Pasted image 20250305102404.png",
-    "photo/Pasted image 20250305102250.png",
-    "photo/Pasted image 20250305095541.png",
-    "photo/Pasted image 20250305095432.png",
     "鉴权.md",
     "初步使用nvm、npm.md",
     "Git.md",
@@ -210,14 +215,9 @@
     "计算机网络/图解网络-小林coding-暗黑风格-v4.0.pdf",
     "Gorm+Mysql/简单链接.md",
     "图解网络-小林coding-暗黑风格-v4.0.pdf",
-    "Linux基础.md",
-    "Go/深入理解Go module.md",
-    "Go/golang-Context.md",
-    "Go/Golang方法.md",
     "计算机网络",
     "Gorm+Mysql",
     "Redis",
-    "photo/未命名.canvas",
-    "photo"
+    "photo/未命名.canvas"
   ]
 }
