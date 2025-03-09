@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/索引篇/索引常见面试题.md",
+                "file": "计算机网络/IP篇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "索引常见面试题"
+              "title": "IP篇"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ed4983156d3aa84f",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/索引篇/索引常见面试题.md",
+                "file": "计算机网络/IP篇.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "索引常见面试题 的大纲"
+              "title": "IP篇 的大纲"
             }
           }
         ],
@@ -172,24 +171,30 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
+    "photo/Pasted image 20250309212252.png",
+    "photo/Pasted image 20250309211758.png",
+    "photo/Pasted image 20250309211400.png",
+    "photo/Pasted image 20250309211045.png",
+    "photo/Pasted image 20250309210957.png",
+    "photo/Pasted image 20250309200203.png",
+    "photo/Pasted image 20250309194435.png",
+    "photo/Pasted image 20250309194032.png",
+    "photo/Pasted image 20250309193610.png",
+    "photo/Pasted image 20250309192852.png",
+    "photo/Pasted image 20250309192410.png",
+    "未命名 1.md",
+    "未命名.md",
+    "计算机网络/IP篇.md",
     "计算机网络/TCP篇.md",
+    "photo/20250307-0208-55.2459727.mp4",
+    "photo/20250307-0206-32.0757449.mp4",
     "MySQL/索引篇/索引常见面试题.md",
-    "photo/Pasted image 20250306093516.png",
-    "photo/Pasted image 20250306093415.png",
-    "photo/Pasted image 20250306092756.png",
-    "photo/Pasted image 20250306092640.png",
     "MySQL/基础篇/执行一条 select 语句，期间发生了什么？.md",
     "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
-    "photo/Pasted image 20250306092008.png",
-    "photo/Pasted image 20250306090555.png",
     "MySQL/索引篇",
-    "photo/Pasted image 20250306090223.png",
-    "photo/Pasted image 20250306090152.png",
     "Go/Golang方法.md",
     "Go/golang-Context.md",
     "Go/深入理解Go module.md",
-    "photo/Pasted image 20250306083841.png",
-    "photo/Pasted image 20250305215810.png",
     "Pasted.md",
     "计算机网络/HTTP篇.md",
     "MySQL/基础篇",
@@ -209,15 +214,10 @@
     "Linux+Git.md",
     "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
     "2025-03-03.md",
-    "UniqueStdio-Summer-Camp/树.md",
-    "UniqueStdio-Summer-Camp/排序.md",
     "UniqueStdio-Summer-Camp/cpp/Binarytree/g00f3zma.wgh~",
     "计算机网络/图解网络-小林coding-暗黑风格-v4.0.pdf",
-    "Gorm+Mysql/简单链接.md",
     "图解网络-小林coding-暗黑风格-v4.0.pdf",
     "计算机网络",
-    "Gorm+Mysql",
-    "Redis",
     "photo/未命名.canvas"
   ]
 }
