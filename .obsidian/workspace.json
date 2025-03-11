@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/IP篇.md",
+                "file": "MySQL/索引篇/索引常见面试题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IP篇"
+              "title": "索引常见面试题"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ed4983156d3aa84f",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/IP篇.md",
+                "file": "MySQL/索引篇/索引常见面试题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "IP篇 的大纲"
+              "title": "索引常见面试题 的大纲"
             }
           }
         ],
@@ -171,35 +172,34 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "photo/Pasted image 20250309212252.png",
-    "photo/Pasted image 20250309211758.png",
-    "photo/Pasted image 20250309211400.png",
-    "photo/Pasted image 20250309211045.png",
-    "photo/Pasted image 20250309210957.png",
-    "photo/Pasted image 20250309200203.png",
-    "photo/Pasted image 20250309194435.png",
-    "photo/Pasted image 20250309194032.png",
-    "photo/Pasted image 20250309193610.png",
-    "photo/Pasted image 20250309192852.png",
-    "photo/Pasted image 20250309192410.png",
-    "未命名 1.md",
-    "未命名.md",
-    "计算机网络/IP篇.md",
-    "计算机网络/TCP篇.md",
-    "photo/20250307-0208-55.2459727.mp4",
-    "photo/20250307-0206-32.0757449.mp4",
+    "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
     "MySQL/索引篇/索引常见面试题.md",
     "MySQL/基础篇/执行一条 select 语句，期间发生了什么？.md",
-    "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
+    "photo/Pasted image 20250310171456.png",
+    "photo/Pasted image 20250310170458.png",
+    "计算机网络/IP篇.md",
+    "photo/Pasted image 20250310150744.png",
+    "photo/Pasted image 20250310112737.png",
+    "计算机网络/TCP篇.md",
+    "计算机网络/基础篇.md",
+    "计算机网络/HTTP篇.md",
+    "photo/Pasted image 20250310111640.png",
+    "photo/Pasted image 20250310111638.png",
+    "photo/Pasted image 20250310110747.png",
+    "photo/Pasted image 20250310110613.png",
+    "photo/Pasted image 20250310110311.png",
+    "photo/Pasted image 20250310105759.png",
+    "未命名 1.md",
+    "未命名.md",
+    "photo/20250307-0208-55.2459727.mp4",
+    "photo/20250307-0206-32.0757449.mp4",
     "MySQL/索引篇",
     "Go/Golang方法.md",
     "Go/golang-Context.md",
     "Go/深入理解Go module.md",
     "Pasted.md",
-    "计算机网络/HTTP篇.md",
     "MySQL/基础篇",
     "MySQL/基础篇.md",
-    "计算机网络/基础篇.md",
     "MySQL",
     "grpc/SSL TLS认证方式.md",
     "未命名.canvas",
