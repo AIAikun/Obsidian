@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/索引篇/索引常见面试题.md",
+                "file": "MySQL/索引篇/从数据页的角度看 B+ 树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "索引常见面试题"
+              "title": "从数据页的角度看 B+ 树"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/索引篇/索引常见面试题.md",
+                "file": "MySQL/索引篇/从数据页的角度看 B+ 树.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "索引常见面试题 的大纲"
+              "title": "从数据页的角度看 B+ 树 的大纲"
             }
           }
         ],
@@ -172,9 +172,16 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
     "MySQL/索引篇/索引常见面试题.md",
+    "MySQL/索引篇/从数据页的角度看 B+ 树.md",
+    "photo/Pasted image 20250311214837.png",
+    "photo/Pasted image 20250311214238.png",
+    "photo/Pasted image 20250311153531.png",
+    "photo/Pasted image 20250311153508.png",
     "MySQL/基础篇/执行一条 select 语句，期间发生了什么？.md",
+    "MySQL/基础篇/MySQL 一行记录是怎么存储的？.md",
+    "photo/Pasted image 20250311094840.png",
+    "photo/Pasted image 20250311094559.png",
     "photo/Pasted image 20250310171456.png",
     "photo/Pasted image 20250310170458.png",
     "计算机网络/IP篇.md",
@@ -183,12 +190,6 @@
     "计算机网络/TCP篇.md",
     "计算机网络/基础篇.md",
     "计算机网络/HTTP篇.md",
-    "photo/Pasted image 20250310111640.png",
-    "photo/Pasted image 20250310111638.png",
-    "photo/Pasted image 20250310110747.png",
-    "photo/Pasted image 20250310110613.png",
-    "photo/Pasted image 20250310110311.png",
-    "photo/Pasted image 20250310105759.png",
     "未命名 1.md",
     "未命名.md",
     "photo/20250307-0208-55.2459727.mp4",
