@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/事务篇/1. 事务隔离级别是怎么实现的？.md",
+                "file": "MySQL/锁篇/2. MySQL 是怎么加锁的？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 事务隔离级别是怎么实现的？"
+              "title": "2. MySQL 是怎么加锁的？"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/事务篇/1. 事务隔离级别是怎么实现的？.md",
+                "file": "MySQL/锁篇/2. MySQL 是怎么加锁的？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1. 事务隔离级别是怎么实现的？ 的大纲"
+              "title": "2. MySQL 是怎么加锁的？ 的大纲"
             }
           }
         ],
@@ -172,20 +172,24 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "photo/Pasted image 20250314173457.png",
-    "photo/Pasted image 20250314173153.png",
-    "photo/Pasted image 20250314170633.png",
-    "photo/Pasted image 20250314170110.png",
-    "photo/Pasted image 20250314113608.png",
+    "photo/Pasted image 20250316194854.png",
+    "photo/Pasted image 20250316194400.png",
+    "photo/Pasted image 20250316194336.png",
+    "MySQL/锁篇/1. MySQL 有哪些锁？.md",
+    "MySQL/锁篇/2. MySQL 是怎么加锁的？.md",
+    "photo/Pasted image 20250316192453.png",
+    "photo/Pasted image 20250316192238.png",
+    "photo/Pasted image 20250316191428.png",
+    "photo/Pasted image 20250316190718.png",
+    "photo/Pasted image 20250316190716.png",
+    "photo/Pasted image 20250316115806.png",
+    "photo/Pasted image 20250316115052.png",
+    "photo/Pasted image 20250316114731.png",
+    "MySQL/事务篇/2. MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
+    "MySQL/锁篇",
+    "MySQL/事务篇/1. 事务隔离级别是怎么实现的？.md",
     "MySQL/基础篇/2. MySQL 一行记录是怎么存储的？.md",
     "MySQL/基础篇/1. 执行一条 select 语句，期间发生了什么？.md",
-    "MySQL/事务篇/1. 事务隔离级别是怎么实现的？.md",
-    "photo/Pasted image 20250314112941.png",
-    "photo/Pasted image 20250314111332.png",
-    "photo/Pasted image 20250314111314.png",
-    "photo/Pasted image 20250314111024.png",
-    "photo/Pasted image 20250314105919.png",
-    "photo/Pasted image 20250314105008.png",
     "MySQL/索引篇/7.count() 和 count(1) 有什么区别？哪个性能最好？.md",
     "MySQL/事务篇",
     "MySQL/索引篇/5.索引失效有哪些.md",
@@ -212,13 +216,9 @@
     "MySQL",
     "grpc/SSL TLS认证方式.md",
     "未命名.canvas",
-    "grpc/proto文件编写.md",
-    "grpc/proto文件介绍.md",
-    "grpc/认证-安全传输.md",
     "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
     "UniqueStdio-Summer-Camp/cpp/Binarytree/g00f3zma.wgh~",
     "计算机网络/图解网络-小林coding-暗黑风格-v4.0.pdf",
-    "图解网络-小林coding-暗黑风格-v4.0.pdf",
     "photo/未命名.canvas"
   ]
 }
