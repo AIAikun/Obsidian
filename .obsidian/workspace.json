@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/锁篇/2. MySQL 是怎么加锁的？.md",
+                "file": "MySQL/日志篇/MySQL 日志：undo log、redo log、binlog 有什么用？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. MySQL 是怎么加锁的？"
+              "title": "MySQL 日志：undo log、redo log、binlog 有什么用？"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/锁篇/2. MySQL 是怎么加锁的？.md",
+                "file": "MySQL/日志篇/MySQL 日志：undo log、redo log、binlog 有什么用？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2. MySQL 是怎么加锁的？ 的大纲"
+              "title": "MySQL 日志：undo log、redo log、binlog 有什么用？ 的大纲"
             }
           }
         ],
@@ -172,20 +172,26 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "photo/Pasted image 20250317172153.png",
-    "photo/Pasted image 20250317172148.png",
-    "photo/Pasted image 20250317171726.png",
-    "photo/Pasted image 20250317171336.png",
-    "photo/Pasted image 20250317170803.png",
-    "photo/Pasted image 20250317170743.png",
-    "photo/Pasted image 20250317114842.png",
-    "photo/Pasted image 20250317114814.png",
-    "photo/Pasted image 20250317114518.png",
-    "photo/Pasted image 20250317114415.png",
-    "photo/Pasted image 20250317114108.png",
-    "MySQL/索引篇/1. 索引常见面试题.md",
-    "MySQL/锁篇/1. MySQL 有哪些锁？.md",
+    "photo/Pasted image 20250318172727.png",
+    "photo/Pasted image 20250318171114.png",
+    "MySQL/索引篇/5.索引失效有哪些.md",
+    "MySQL/日志篇/MySQL 日志：undo log、redo log、binlog 有什么用？.md",
+    "photo/Pasted image 20250318165807.png",
+    "photo/Pasted image 20250318165508.png",
+    "MySQL/锁篇/4. MySQL 死锁了，怎么办？.md",
+    "MySQL/锁篇/5. 字节面试：加了什么锁，导致死锁的？.md",
+    "MySQL/日志篇",
+    "photo/Pasted image 20250318164515.png",
     "MySQL/锁篇/2. MySQL 是怎么加锁的？.md",
+    "MySQL/锁篇/1. MySQL 有哪些锁？.md",
+    "photo/Pasted image 20250318163832.png",
+    "photo/Pasted image 20250318163647.png",
+    "photo/Pasted image 20250318163319.png",
+    "photo/Pasted image 20250318163051.png",
+    "photo/Pasted image 20250318163002.png",
+    "photo/Pasted image 20250318161035.png",
+    "MySQL/索引篇/1. 索引常见面试题.md",
+    "MySQL/锁篇/3. update 没加索引会锁全表？.md",
     "MySQL/事务篇/2. MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
     "MySQL/锁篇",
     "MySQL/事务篇/1. 事务隔离级别是怎么实现的？.md",
@@ -193,7 +199,6 @@
     "MySQL/基础篇/1. 执行一条 select 语句，期间发生了什么？.md",
     "MySQL/索引篇/7.count() 和 count(1) 有什么区别？哪个性能最好？.md",
     "MySQL/事务篇",
-    "MySQL/索引篇/5.索引失效有哪些.md",
     "MySQL/索引篇/6. MySQL 使用 like“%x“，索引一定会失效吗？.md",
     "MySQL/索引篇/2. 从数据页的角度看 B+ 树.md",
     "MySQL/索引篇/3.为什么 MySQL 采用 B+ 树作为索引？.md",
@@ -209,16 +214,11 @@
     "MySQL/索引篇",
     "Go/Golang方法.md",
     "Go/golang-Context.md",
-    "Go/深入理解Go module.md",
-    "Pasted.md",
     "MySQL/基础篇",
-    "MySQL/基础篇.md",
     "MySQL",
-    "grpc/SSL TLS认证方式.md",
     "未命名.canvas",
     "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
     "UniqueStdio-Summer-Camp/cpp/Binarytree/g00f3zma.wgh~",
-    "计算机网络/图解网络-小林coding-暗黑风格-v4.0.pdf",
     "photo/未命名.canvas"
   ]
 }
