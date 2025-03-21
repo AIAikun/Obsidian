@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MySQL/内存篇/Buffer Pool.md",
+                "file": "操作系统/1.硬件结构/1. CPU 是如何执行程序的？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buffer Pool"
+              "title": "1. CPU 是如何执行程序的？"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/内存篇/Buffer Pool.md",
+                "file": "操作系统/1.硬件结构/1. CPU 是如何执行程序的？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Buffer Pool 的大纲"
+              "title": "1. CPU 是如何执行程序的？ 的大纲"
             }
           }
         ],
@@ -172,22 +172,25 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "photo/Pasted image 20250320213441.png",
-    "photo/Pasted image 20250320212701.png",
+    "photo/Pasted image 20250321152945.png",
+    "photo/Pasted image 20250321152627.png",
+    "photo/Pasted image 20250321151257.png",
+    "photo/Pasted image 20250321142750.png",
+    "photo/Pasted image 20250321134508.png",
+    "photo/Pasted image 20250321134354.png",
+    "photo/Pasted image 20250321134010.png",
+    "MySQL/内存篇/Buffer Pool.md",
+    "操作系统/1.硬件结构/1. CPU 是如何执行程序的？.md",
+    "操作系统/1.硬件结构",
+    "操作系统",
+    "photo/Pasted image 20250321093647.png",
+    "photo/Pasted image 20250321093633.png",
+    "photo/Pasted image 20250321093404.png",
+    "photo/Pasted image 20250321093320.png",
     "MySQL/日志篇/MySQL 日志：undo log、redo log、binlog 有什么用？.md",
     "MySQL/索引篇/1. 索引常见面试题.md",
-    "MySQL/内存篇/Buffer Pool.md",
-    "photo/Pasted image 20250320211944.png",
-    "photo/Pasted image 20250320210907.png",
     "MySQL/内存篇",
     "MySQL/未命名.md",
-    "photo/EcoPaste_4-zblowlEULyRR0L0cSdI.png",
-    "photo/Pasted image 20250320204852.png",
-    "photo/Pasted image 20250320204626.png",
-    "photo/Pasted image 20250320204534.png",
-    "photo/Pasted image 20250320204352.png",
-    "photo/Pasted image 20250320204245.png",
-    "photo/Pasted image 20250320203301.png",
     "MySQL/索引篇/5.索引失效有哪些.md",
     "MySQL/锁篇/4. MySQL 死锁了，怎么办？.md",
     "MySQL/锁篇/5. 字节面试：加了什么锁，导致死锁的？.md",
@@ -211,14 +214,11 @@
     "计算机网络/基础篇.md",
     "计算机网络/HTTP篇.md",
     "未命名 1.md",
-    "未命名.md",
     "photo/20250307-0208-55.2459727.mp4",
     "photo/20250307-0206-32.0757449.mp4",
     "MySQL/索引篇",
     "MySQL/基础篇",
-    "MySQL",
     "未命名.canvas",
-    "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
     "photo/未命名.canvas"
   ]
 }
