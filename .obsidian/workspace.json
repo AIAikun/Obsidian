@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/1.硬件结构/3. 如何写出让 CPU 跑得更快的代码？.md",
+                "file": "操作系统/1.硬件结构/5. CPU 是如何执行任务的？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 如何写出让 CPU 跑得更快的代码？"
+              "title": "5. CPU 是如何执行任务的？"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/1.硬件结构/3. 如何写出让 CPU 跑得更快的代码？.md",
+                "file": "操作系统/1.硬件结构/5. CPU 是如何执行任务的？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3. 如何写出让 CPU 跑得更快的代码？ 的大纲"
+              "title": "5. CPU 是如何执行任务的？ 的大纲"
             }
           }
         ],
@@ -172,20 +172,22 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
+    "操作系统/1.硬件结构/4. CPU 缓存一致性.md",
+    "操作系统/1.硬件结构/5. CPU 是如何执行任务的？.md",
+    "photo/Pasted image 20250324114722.png",
+    "photo/Pasted image 20250324114635.png",
+    "photo/Pasted image 20250324113157.png",
+    "计算机网络/基础篇.md",
+    "操作系统/1.硬件结构/3. 如何写出让 CPU 跑得更快的代码？.md",
+    "操作系统/1.硬件结构/2. 磁盘和内存.md",
+    "操作系统/1.硬件结构/1. CPU 是如何执行程序的？.md",
+    "photo/Pasted image 20250324104449.png",
+    "photo/Pasted image 20250324104138.png",
+    "photo/Pasted image 20250324103635.png",
+    "photo/Pasted image 20250324103102.png",
     "photo/Pasted image 20250323200506.png",
     "photo/Pasted image 20250323195948.png",
     "photo/Pasted image 20250323195237.png",
-    "photo/Pasted image 20250323194759.png",
-    "photo/Pasted image 20250323194611.png",
-    "操作系统/1.硬件结构/2. 磁盘和内存.md",
-    "操作系统/1.硬件结构/3. 如何写出让 CPU 跑得更快的代码？.md",
-    "photo/Pasted image 20250323120041.png",
-    "操作系统/1.硬件结构/1. CPU 是如何执行程序的？.md",
-    "photo/Pasted image 20250323115705.png",
-    "photo/Pasted image 20250323115320.png",
-    "photo/Pasted image 20250323110620.png",
-    "photo/Pasted image 20250323105836.png",
-    "photo/Pasted image 20250323105253.png",
     "MySQL/内存篇/Buffer Pool.md",
     "操作系统/1.硬件结构",
     "操作系统",
@@ -212,8 +214,6 @@
     "MySQL/索引篇/3.为什么 MySQL 采用 B+ 树作为索引？.md",
     "MySQL/索引篇/4.MySQL 单表不要超过 2000W 行，靠谱吗？.md",
     "计算机网络/IP篇.md",
-    "计算机网络/TCP篇.md",
-    "计算机网络/基础篇.md",
     "photo/20250307-0208-55.2459727.mp4",
     "photo/20250307-0206-32.0757449.mp4",
     "MySQL/索引篇",
