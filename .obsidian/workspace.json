@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/3.内存管理/1.为什么要有虚拟内存？.md",
+                "file": "操作系统/3.内存管理/3. 内存满了，会发生什么？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.为什么要有虚拟内存？"
+              "title": "3. 内存满了，会发生什么？"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 233.5,
     "collapsed": true
   },
   "right": {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/3.内存管理/1.为什么要有虚拟内存？.md",
+                "file": "操作系统/3.内存管理/3. 内存满了，会发生什么？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.为什么要有虚拟内存？ 的大纲"
+              "title": "3. 内存满了，会发生什么？ 的大纲"
             }
           }
         ],
@@ -172,19 +172,20 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
+    "photo/Pasted image 20250331180644.png",
+    "photo/Pasted image 20250331180001.png",
+    "操作系统/3.内存管理/2. malloc 是如何分配内存的？.md",
+    "操作系统/3.内存管理/3. 内存满了，会发生什么？.md",
+    "photo/Pasted image 20250331160804.png",
+    "photo/Pasted image 20250331160645.png",
+    "操作系统/3.内存管理/1.为什么要有虚拟内存？.md",
+    "photo/Pasted image 20250331155709.png",
+    "photo/Pasted image 20250331155654.png",
+    "photo/Pasted image 20250331155338.png",
     "photo/Pasted image 20250328215653.png",
     "photo/Pasted image 20250328214512.png",
     "photo/Pasted image 20250328213947.png",
     "photo/Pasted image 20250328213739.png",
-    "photo/Pasted image 20250328213227.png",
-    "photo/Pasted image 20250328212817.png",
-    "photo/Pasted image 20250328212526.png",
-    "photo/Pasted image 20250328212328.png",
-    "photo/Pasted image 20250328211603.png",
-    "photo/Pasted image 20250328210927.png",
-    "photo/Pasted image 20250328210548.png",
-    "操作系统/3.内存管理/未命名 1.md",
-    "操作系统/3.内存管理/1.为什么要有虚拟内存？.md",
     "操作系统/2.操作系统结构/Linux 内核 vs Windows 内核.md",
     "操作系统/3.内存管理",
     "操作系统/2.操作系统结构",
@@ -216,7 +217,6 @@
     "MySQL/事务篇/2. MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
     "MySQL/锁篇",
     "MySQL/事务篇/1. 事务隔离级别是怎么实现的？.md",
-    "MySQL/基础篇/2. MySQL 一行记录是怎么存储的？.md",
     "MySQL/事务篇",
     "未命名.canvas",
     "photo/未命名.canvas"
