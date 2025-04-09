@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/4.进程管理/3. 多线程冲突了怎么办？.md",
+                "file": "操作系统/4.进程管理/4. 怎么避免死锁？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 多线程冲突了怎么办？"
+              "title": "4. 怎么避免死锁？"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/4.进程管理/3. 多线程冲突了怎么办？.md",
+                "file": "操作系统/4.进程管理/4. 怎么避免死锁？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3. 多线程冲突了怎么办？ 的大纲"
+              "title": "4. 怎么避免死锁？ 的大纲"
             }
           }
         ],
@@ -172,19 +172,19 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "photo/Pasted image 20250406152954.png",
-    "photo/Pasted image 20250406152116.png",
-    "操作系统/4.进程管理/2. 进程间的通信方式.md",
     "操作系统/4.进程管理/3. 多线程冲突了怎么办？.md",
-    "photo/Pasted image 20250406150739.png",
-    "photo/Pasted image 20250406150310.png",
-    "photo/Pasted image 20250406144623.png",
-    "photo/Pasted image 20250406144431.png",
-    "photo/Pasted image 20250406120214.png",
-    "photo/Pasted image 20250406114917.png",
-    "photo/Pasted image 20250406114836.png",
-    "photo/Pasted image 20250406114805.png",
-    "photo/Pasted image 20250406114619.png",
+    "操作系统/4.进程管理/4. 怎么避免死锁？.md",
+    "photo/Pasted image 20250409161608.png",
+    "photo/Pasted image 20250409160438.png",
+    "photo/Pasted image 20250409155002.png",
+    "photo/Pasted image 20250409152700.png",
+    "photo/Pasted image 20250409152432.png",
+    "photo/Pasted image 20250409152304.png",
+    "photo/Pasted image 20250409152135.png",
+    "photo/Pasted image 20250409152032.png",
+    "photo/Pasted image 20250409151950.png",
+    "photo/Pasted image 20250409151908.png",
+    "操作系统/4.进程管理/2. 进程间的通信方式.md",
     "操作系统/4.进程管理/1. 进程、线程基础知识.md",
     "操作系统/3.内存管理/5. 如何避免预读失效和缓存污染的问题？、.md",
     "操作系统/4.进程管理",
