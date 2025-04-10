@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/4.进程管理/4. 怎么避免死锁？.md",
+                "file": "操作系统/4.进程管理/7. 线程崩溃了，进程也会崩溃吗？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 怎么避免死锁？"
+              "title": "7. 线程崩溃了，进程也会崩溃吗？"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "ed4983156d3aa84f",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/4.进程管理/4. 怎么避免死锁？.md",
+                "file": "操作系统/4.进程管理/7. 线程崩溃了，进程也会崩溃吗？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4. 怎么避免死锁？ 的大纲"
+              "title": "7. 线程崩溃了，进程也会崩溃吗？ 的大纲"
             }
           }
         ],
@@ -170,20 +169,24 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b86712e8097075bb",
+  "active": "600c72498f2e2b66",
   "lastOpenFiles": [
-    "操作系统/4.进程管理/3. 多线程冲突了怎么办？.md",
+    "操作系统/未命名",
+    "photo/Pasted image 20250410195613.png",
+    "photo/Pasted image 20250410193253.png",
+    "photo/Pasted image 20250410192925.png",
+    "photo/Pasted image 20250410192832.png",
+    "操作系统/4.进程管理/6. 一个进程最多可以创建多少个线程？.md",
+    "操作系统/4.进程管理/7. 线程崩溃了，进程也会崩溃吗？.md",
+    "photo/Pasted image 20250410192015.png",
+    "操作系统/4.进程管理/6. 悲观锁、乐观锁.md",
+    "photo/Pasted image 20250410191010.png",
+    "photo/Pasted image 20250410190858.png",
+    "photo/Pasted image 20250410185523.png",
+    "photo/Pasted image 20250410185108.png",
     "操作系统/4.进程管理/4. 怎么避免死锁？.md",
-    "photo/Pasted image 20250409161608.png",
-    "photo/Pasted image 20250409160438.png",
-    "photo/Pasted image 20250409155002.png",
-    "photo/Pasted image 20250409152700.png",
-    "photo/Pasted image 20250409152432.png",
-    "photo/Pasted image 20250409152304.png",
-    "photo/Pasted image 20250409152135.png",
-    "photo/Pasted image 20250409152032.png",
-    "photo/Pasted image 20250409151950.png",
-    "photo/Pasted image 20250409151908.png",
+    "photo/Pasted image 20250410184739.png",
+    "操作系统/4.进程管理/3. 多线程冲突了怎么办？.md",
     "操作系统/4.进程管理/2. 进程间的通信方式.md",
     "操作系统/4.进程管理/1. 进程、线程基础知识.md",
     "操作系统/3.内存管理/5. 如何避免预读失效和缓存污染的问题？、.md",
@@ -212,10 +215,6 @@
     "MySQL/日志篇/MySQL 日志：undo log、redo log、binlog 有什么用？.md",
     "MySQL/索引篇/1. 索引常见面试题.md",
     "MySQL/内存篇",
-    "MySQL/未命名.md",
-    "MySQL/索引篇/5.索引失效有哪些.md",
-    "MySQL/锁篇/4. MySQL 死锁了，怎么办？.md",
-    "MySQL/锁篇/5. 字节面试：加了什么锁，导致死锁的？.md",
     "MySQL/日志篇",
     "MySQL/锁篇",
     "未命名.canvas",
