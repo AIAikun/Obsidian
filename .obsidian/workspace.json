@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/4.进程管理/7. 线程崩溃了，进程也会崩溃吗？.md",
+                "file": "操作系统/3.内存管理/1.为什么要有虚拟内存？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. 线程崩溃了，进程也会崩溃吗？"
+              "title": "1.为什么要有虚拟内存？"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/4.进程管理/7. 线程崩溃了，进程也会崩溃吗？.md",
+                "file": "操作系统/3.内存管理/1.为什么要有虚拟内存？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "7. 线程崩溃了，进程也会崩溃吗？ 的大纲"
+              "title": "1.为什么要有虚拟内存？ 的大纲"
             }
           }
         ],
@@ -169,32 +169,34 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "600c72498f2e2b66",
+  "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "操作系统/未命名",
-    "photo/Pasted image 20250410195613.png",
-    "photo/Pasted image 20250410193253.png",
-    "photo/Pasted image 20250410192925.png",
-    "photo/Pasted image 20250410192832.png",
-    "操作系统/4.进程管理/6. 一个进程最多可以创建多少个线程？.md",
-    "操作系统/4.进程管理/7. 线程崩溃了，进程也会崩溃吗？.md",
-    "photo/Pasted image 20250410192015.png",
-    "操作系统/4.进程管理/6. 悲观锁、乐观锁.md",
-    "photo/Pasted image 20250410191010.png",
-    "photo/Pasted image 20250410190858.png",
-    "photo/Pasted image 20250410185523.png",
-    "photo/Pasted image 20250410185108.png",
-    "操作系统/4.进程管理/4. 怎么避免死锁？.md",
-    "photo/Pasted image 20250410184739.png",
-    "操作系统/4.进程管理/3. 多线程冲突了怎么办？.md",
-    "操作系统/4.进程管理/2. 进程间的通信方式.md",
-    "操作系统/4.进程管理/1. 进程、线程基础知识.md",
     "操作系统/3.内存管理/5. 如何避免预读失效和缓存污染的问题？、.md",
-    "操作系统/4.进程管理",
     "操作系统/3.内存管理/4. 在 4GB 物理内存的机器上，申请 8G 内存会怎么样？.md",
     "操作系统/3.内存管理/3. 内存满了，会发生什么？.md",
     "操作系统/3.内存管理/2. malloc 是如何分配内存的？.md",
     "操作系统/3.内存管理/1.为什么要有虚拟内存？.md",
+    "操作系统/5.调度算法/进程调度、页面置换、磁盘调度算法.md",
+    "photo/Pasted image 20250411171913.png",
+    "photo/Pasted image 20250411171244.png",
+    "操作系统/4.进程管理/1. 进程、线程基础知识.md",
+    "photo/Pasted image 20250411164755.png",
+    "photo/Pasted image 20250411164555.png",
+    "photo/Pasted image 20250411164431.png",
+    "photo/Pasted image 20250411164136.png",
+    "photo/Pasted image 20250411141416.png",
+    "操作系统/4.进程管理/7. 线程崩溃了，进程也会崩溃吗？.md",
+    "操作系统/5.调度算法",
+    "操作系统/未命名.md",
+    "photo/Pasted image 20250410195613.png",
+    "photo/Pasted image 20250410193253.png",
+    "photo/Pasted image 20250410192925.png",
+    "操作系统/4.进程管理/6. 一个进程最多可以创建多少个线程？.md",
+    "操作系统/4.进程管理/6. 悲观锁、乐观锁.md",
+    "操作系统/4.进程管理/4. 怎么避免死锁？.md",
+    "操作系统/4.进程管理/3. 多线程冲突了怎么办？.md",
+    "操作系统/4.进程管理/2. 进程间的通信方式.md",
+    "操作系统/4.进程管理",
     "操作系统/2.操作系统结构/Linux 内核 vs Windows 内核.md",
     "操作系统/3.内存管理",
     "操作系统/2.操作系统结构",
@@ -212,11 +214,8 @@
     "MySQL/内存篇/Buffer Pool.md",
     "操作系统/1.硬件结构",
     "操作系统",
-    "MySQL/日志篇/MySQL 日志：undo log、redo log、binlog 有什么用？.md",
-    "MySQL/索引篇/1. 索引常见面试题.md",
     "MySQL/内存篇",
     "MySQL/日志篇",
-    "MySQL/锁篇",
     "未命名.canvas",
     "photo/未命名.canvas"
   ]
