@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/6.文件系统/1. 文件系统全家桶.md",
+                "file": "操作系统/6.文件系统/2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 文件系统全家桶"
+              "title": "2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/6.文件系统/1. 文件系统全家桶.md",
+                "file": "操作系统/6.文件系统/2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1. 文件系统全家桶 的大纲"
+              "title": "2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？ 的大纲"
             }
           }
         ],
@@ -172,26 +172,26 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "photo/Pasted image 20250413120232.png",
-    "photo/Pasted image 20250413111950.png",
-    "操作系统/5.调度算法/进程调度、页面置换、磁盘调度算法.md",
     "操作系统/6.文件系统/1. 文件系统全家桶.md",
+    "操作系统/6.文件系统/2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？.md",
+    "photo/Pasted image 20250414214806.png",
+    "photo/Pasted image 20250414214640.png",
+    "photo/Pasted image 20250414213834.png",
+    "photo/Pasted image 20250414212719.png",
+    "photo/Pasted image 20250414212457.png",
+    "photo/Pasted image 20250414211609.png",
+    "photo/Pasted image 20250414210940.png",
+    "photo/Pasted image 20250414210007.png",
+    "photo/Pasted image 20250414204841.png",
+    "photo/Pasted image 20250414202059.png",
+    "操作系统/5.调度算法/进程调度、页面置换、磁盘调度算法.md",
     "操作系统/6.文件系统",
-    "photo/Pasted image 20250413111201.png",
-    "photo/Pasted image 20250413110309.png",
-    "photo/Pasted image 20250413110151.png",
-    "photo/Pasted image 20250413105758.png",
-    "photo/Pasted image 20250413105021.png",
     "操作系统/3.内存管理/1.为什么要有虚拟内存？.md",
     "操作系统/3.内存管理/3. 内存满了，会发生什么？.md",
     "操作系统/3.内存管理/4. 在 4GB 物理内存的机器上，申请 8G 内存会怎么样？.md",
     "操作系统/3.内存管理/5. 如何避免预读失效和缓存污染的问题？、.md",
     "操作系统/3.内存管理/2. malloc 是如何分配内存的？.md",
-    "photo/Pasted image 20250411171913.png",
-    "photo/Pasted image 20250411171244.png",
     "操作系统/4.进程管理/1. 进程、线程基础知识.md",
-    "photo/Pasted image 20250411164755.png",
-    "photo/Pasted image 20250411164555.png",
     "操作系统/4.进程管理/7. 线程崩溃了，进程也会崩溃吗？.md",
     "操作系统/5.调度算法",
     "操作系统/未命名.md",
