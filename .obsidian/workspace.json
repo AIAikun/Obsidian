@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/6.文件系统/2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？.md",
+                "file": "操作系统/7.网络系统/2. selete_poll_epoll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？"
+              "title": "2. selete_poll_epoll"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/6.文件系统/2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？.md",
+                "file": "操作系统/7.网络系统/2. selete_poll_epoll.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？ 的大纲"
+              "title": "2. selete_poll_epoll 的大纲"
             }
           }
         ],
@@ -172,18 +172,23 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "操作系统/6.文件系统/1. 文件系统全家桶.md",
+    "photo/Pasted image 20250420163400.png",
+    "操作系统/7.网络系统/1. 什么是零拷贝.md",
+    "操作系统/7.网络系统/2. selete_poll_epoll.md",
+    "photo/Pasted image 20250420162711.png",
+    "photo/Pasted image 20250420162532.png",
+    "photo/Pasted image 20250420161546.png",
+    "photo/Pasted image 20250420161033.png",
+    "photo/Pasted image 20250420160524.png",
+    "photo/Pasted image 20250420160109.png",
+    "photo/Pasted image 20250420103222.png",
+    "photo/Pasted image 20250420102743.png",
     "操作系统/6.文件系统/2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？.md",
-    "photo/Pasted image 20250414214806.png",
-    "photo/Pasted image 20250414214640.png",
-    "photo/Pasted image 20250414213834.png",
-    "photo/Pasted image 20250414212719.png",
-    "photo/Pasted image 20250414212457.png",
-    "photo/Pasted image 20250414211609.png",
-    "photo/Pasted image 20250414210940.png",
-    "photo/Pasted image 20250414210007.png",
-    "photo/Pasted image 20250414204841.png",
-    "photo/Pasted image 20250414202059.png",
+    "操作系统/7.网络系统",
+    "操作系统/6.文件系统/7",
+    "photo/Pasted image 20250420095842.png",
+    "photo/Pasted image 20250420094840.png",
+    "操作系统/6.文件系统/1. 文件系统全家桶.md",
     "操作系统/5.调度算法/进程调度、页面置换、磁盘调度算法.md",
     "操作系统/6.文件系统",
     "操作系统/3.内存管理/1.为什么要有虚拟内存？.md",
@@ -211,13 +216,8 @@
     "操作系统/1.硬件结构/4. CPU 缓存一致性.md",
     "操作系统/1.硬件结构/5. CPU 是如何执行任务的？.md",
     "操作系统/1.硬件结构/6. 什么是软中断.md",
-    "Linux基础.md",
     "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
-    "计算机网络/基础篇.md",
-    "操作系统/1.硬件结构/1. CPU 是如何执行程序的？.md",
     "操作系统/1.硬件结构",
-    "操作系统",
-    "MySQL/内存篇",
     "未命名.canvas",
     "photo/未命名.canvas"
   ]
