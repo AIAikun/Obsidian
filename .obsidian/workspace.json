@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/7.网络系统/2. selete_poll_epoll.md",
+                "file": "操作系统/8.Linux命令/1.如何查看网络的性能指标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. selete_poll_epoll"
+              "title": "1.如何查看网络的性能指标"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "ed4983156d3aa84f",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/7.网络系统/2. selete_poll_epoll.md",
+                "file": "操作系统/8.Linux命令/1.如何查看网络的性能指标.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2. selete_poll_epoll 的大纲"
+              "title": "1.如何查看网络的性能指标 的大纲"
             }
           }
         ],
@@ -172,22 +171,26 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "photo/Pasted image 20250420163400.png",
-    "操作系统/7.网络系统/1. 什么是零拷贝.md",
+    "操作系统/8.Linux命令/2.如何从日志分析 PV、UV？.md",
+    "操作系统/8.Linux命令/1.如何查看网络的性能指标.md",
+    "photo/Pasted image 20250421220555.png",
+    "photo/Pasted image 20250421220410.png",
+    "photo/Pasted image 20250421220329.png",
+    "photo/Pasted image 20250421220239.png",
+    "photo/Pasted image 20250421220152.png",
+    "photo/Pasted image 20250421220051.png",
+    "photo/Pasted image 20250421215830.png",
+    "photo/Pasted image 20250421215624.png",
+    "photo/Pasted image 20250421215459.png",
+    "photo/Pasted image 20250421214531.png",
+    "操作系统/7.网络系统/4. 什么是一致性哈希？.md",
+    "操作系统/8.Linux命令",
+    "操作系统/7.网络系统/3. 高性能网络模式：Reactor 和 Proactor.md",
     "操作系统/7.网络系统/2. selete_poll_epoll.md",
-    "photo/Pasted image 20250420162711.png",
-    "photo/Pasted image 20250420162532.png",
-    "photo/Pasted image 20250420161546.png",
-    "photo/Pasted image 20250420161033.png",
-    "photo/Pasted image 20250420160524.png",
-    "photo/Pasted image 20250420160109.png",
-    "photo/Pasted image 20250420103222.png",
-    "photo/Pasted image 20250420102743.png",
+    "操作系统/7.网络系统/1. 什么是零拷贝.md",
     "操作系统/6.文件系统/2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？.md",
     "操作系统/7.网络系统",
     "操作系统/6.文件系统/7",
-    "photo/Pasted image 20250420095842.png",
-    "photo/Pasted image 20250420094840.png",
     "操作系统/6.文件系统/1. 文件系统全家桶.md",
     "操作系统/5.调度算法/进程调度、页面置换、磁盘调度算法.md",
     "操作系统/6.文件系统",
@@ -212,12 +215,7 @@
     "操作系统/1.硬件结构/7.  为什么 0.1 + 0.2 不等于 0.3？.md",
     "未命名",
     "操作系统/1.硬件结构/2. 磁盘和内存.md",
-    "操作系统/1.硬件结构/3. 如何写出让 CPU 跑得更快的代码？.md",
-    "操作系统/1.硬件结构/4. CPU 缓存一致性.md",
-    "操作系统/1.硬件结构/5. CPU 是如何执行任务的？.md",
-    "操作系统/1.硬件结构/6. 什么是软中断.md",
     "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
-    "操作系统/1.硬件结构",
     "未命名.canvas",
     "photo/未命名.canvas"
   ]
