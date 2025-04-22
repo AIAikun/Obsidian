@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/8.Linux命令/1.如何查看网络的性能指标.md",
+                "file": "Redis/面试篇/Redis常见面试题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.如何查看网络的性能指标"
+              "title": "Redis常见面试题"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "ed4983156d3aa84f",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/8.Linux命令/1.如何查看网络的性能指标.md",
+                "file": "Redis/面试篇/Redis常见面试题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.如何查看网络的性能指标 的大纲"
+              "title": "Redis常见面试题 的大纲"
             }
           }
         ],
@@ -171,22 +172,34 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "操作系统/8.Linux命令/2.如何从日志分析 PV、UV？.md",
+    "photo/Pasted image 20250422151614.png",
+    "操作系统/7.网络系统/4. 什么是一致性哈希？.md",
+    "操作系统/7.网络系统/2. selete_poll_epoll.md",
+    "Redis/面试篇/Redis常见面试题.md",
+    "photo/Pasted image 20250422150819.png",
+    "Redis/散列表（哈希表、Hash）.md",
+    "Redis/列表List.md",
+    "Redis/有序集合ZSet.md",
+    "Redis/集合Set.md",
+    "Redis/字符串.md",
+    "Redis/遍历.md",
+    "Redis/Redis基本操作.md",
+    "Redis/Redis入门.md",
+    "photo/Pasted image 20250422114844.png",
+    "photo/Pasted image 20250422114206.png",
+    "photo/Pasted image 20250422114123.png",
+    "photo/Pasted image 20250422113627.png",
+    "photo/Pasted image 20250422113148.png",
+    "photo/Pasted image 20250422112914.png",
+    "Sql语法.md",
+    "Redis/面试篇",
     "操作系统/8.Linux命令/1.如何查看网络的性能指标.md",
+    "操作系统/8.Linux命令/2.如何从日志分析 PV、UV？.md",
     "photo/Pasted image 20250421220555.png",
     "photo/Pasted image 20250421220410.png",
     "photo/Pasted image 20250421220329.png",
-    "photo/Pasted image 20250421220239.png",
-    "photo/Pasted image 20250421220152.png",
-    "photo/Pasted image 20250421220051.png",
-    "photo/Pasted image 20250421215830.png",
-    "photo/Pasted image 20250421215624.png",
-    "photo/Pasted image 20250421215459.png",
-    "photo/Pasted image 20250421214531.png",
-    "操作系统/7.网络系统/4. 什么是一致性哈希？.md",
     "操作系统/8.Linux命令",
     "操作系统/7.网络系统/3. 高性能网络模式：Reactor 和 Proactor.md",
-    "操作系统/7.网络系统/2. selete_poll_epoll.md",
     "操作系统/7.网络系统/1. 什么是零拷贝.md",
     "操作系统/6.文件系统/2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？.md",
     "操作系统/7.网络系统",
@@ -200,22 +213,11 @@
     "操作系统/3.内存管理/5. 如何避免预读失效和缓存污染的问题？、.md",
     "操作系统/3.内存管理/2. malloc 是如何分配内存的？.md",
     "操作系统/4.进程管理/1. 进程、线程基础知识.md",
-    "操作系统/4.进程管理/7. 线程崩溃了，进程也会崩溃吗？.md",
     "操作系统/5.调度算法",
-    "操作系统/未命名.md",
-    "操作系统/4.进程管理/6. 一个进程最多可以创建多少个线程？.md",
-    "操作系统/4.进程管理/6. 悲观锁、乐观锁.md",
-    "操作系统/4.进程管理/4. 怎么避免死锁？.md",
-    "操作系统/4.进程管理/3. 多线程冲突了怎么办？.md",
-    "操作系统/4.进程管理/2. 进程间的通信方式.md",
     "操作系统/4.进程管理",
-    "操作系统/2.操作系统结构/Linux 内核 vs Windows 内核.md",
     "操作系统/3.内存管理",
     "操作系统/2.操作系统结构",
-    "操作系统/1.硬件结构/7.  为什么 0.1 + 0.2 不等于 0.3？.md",
     "未命名",
-    "操作系统/1.硬件结构/2. 磁盘和内存.md",
-    "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
     "未命名.canvas",
     "photo/未命名.canvas"
   ]
