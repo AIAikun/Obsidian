@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/面试篇/Redis常见面试题.md",
+                "file": "Redis/数据类型篇/Redis 常见数据类型和应用场景.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis常见面试题"
+              "title": "Redis 常见数据类型和应用场景"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/面试篇/Redis常见面试题.md",
+                "file": "Redis/数据类型篇/Redis 常见数据类型和应用场景.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Redis常见面试题 的大纲"
+              "title": "Redis 常见数据类型和应用场景 的大纲"
             }
           }
         ],
@@ -172,20 +172,22 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "photo/Pasted image 20250423173907.png",
-    "photo/Pasted image 20250423173423.png",
-    "photo/Pasted image 20250423173248.png",
-    "photo/Pasted image 20250423172147.png",
-    "photo/Pasted image 20250423162850.png",
-    "photo/Pasted image 20250423162739.png",
-    "photo/Pasted image 20250423155620.png",
-    "photo/Pasted image 20250423155437.png",
-    "photo/Pasted image 20250423154718.png",
-    "photo/Pasted image 20250423154552.png",
-    "photo/Pasted image 20250423154336.png",
+    "photo/Pasted image 20250428172001.png",
+    "photo/Pasted image 20250428161542.png",
+    "photo/Pasted image 20250428155134.png",
+    "photo/Pasted image 20250428154916.png",
+    "photo/Pasted image 20250428154753.png",
+    "photo/Pasted image 20250428154642.png",
+    "photo/Pasted image 20250428153555.png",
+    "photo/Pasted image 20250428153017.png",
+    "photo/Pasted image 20250428152726.png",
+    "photo/Pasted image 20250428152124.png",
+    "photo/Pasted image 20250428151804.png",
+    "Redis/面试篇/Redis常见面试题.md",
+    "Redis/数据类型篇/Redis 常见数据类型和应用场景.md",
+    "Redis/数据类型篇",
     "操作系统/7.网络系统/4. 什么是一致性哈希？.md",
     "操作系统/7.网络系统/2. selete_poll_epoll.md",
-    "Redis/面试篇/Redis常见面试题.md",
     "Redis/散列表（哈希表、Hash）.md",
     "Redis/列表List.md",
     "Redis/有序集合ZSet.md",
@@ -212,12 +214,10 @@
     "操作系统/3.内存管理/4. 在 4GB 物理内存的机器上，申请 8G 内存会怎么样？.md",
     "操作系统/3.内存管理/5. 如何避免预读失效和缓存污染的问题？、.md",
     "操作系统/3.内存管理/2. malloc 是如何分配内存的？.md",
-    "操作系统/4.进程管理/1. 进程、线程基础知识.md",
     "操作系统/5.调度算法",
     "操作系统/4.进程管理",
     "操作系统/3.内存管理",
     "操作系统/2.操作系统结构",
-    "未命名",
     "未命名.canvas",
     "photo/未命名.canvas"
   ]
