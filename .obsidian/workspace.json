@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/数据类型篇/2. Redis 数据结构.md",
+                "file": "Redis/5. 高可用篇/1. 主从复制是怎么实现的？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Redis 数据结构"
+              "title": "1. 主从复制是怎么实现的？"
             }
           }
         ]
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/数据类型篇/2. Redis 数据结构.md",
+                "file": "Redis/5. 高可用篇/1. 主从复制是怎么实现的？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2. Redis 数据结构 的大纲"
+              "title": "1. 主从复制是怎么实现的？ 的大纲"
             }
           }
         ],
@@ -172,52 +172,52 @@
   },
   "active": "b86712e8097075bb",
   "lastOpenFiles": [
-    "photo/Pasted image 20250502205809.png",
-    "photo/Pasted image 20250502205724.png",
-    "photo/Pasted image 20250502205423.png",
-    "photo/Pasted image 20250502204541.png",
-    "photo/Pasted image 20250502204443.png",
-    "photo/Pasted image 20250502204050.png",
-    "photo/Pasted image 20250502201947.png",
-    "photo/Pasted image 20250502201336.png",
-    "photo/Pasted image 20250502200816.png",
-    "photo/Pasted image 20250502200747.png",
-    "photo/Pasted image 20250502200734.png",
+    "Redis/4. 功能篇/Redis 过期删除策略和内存淘汰策略有什么区别？.md",
+    "Redis/5. 高可用篇/1. 主从复制是怎么实现的？.md",
+    "Redis/5. 高可用篇",
+    "photo/Pasted image 20250503154656.png",
+    "photo/Pasted image 20250503154637.png",
+    "photo/Pasted image 20250503154410.png",
+    "photo/Pasted image 20250503151632.png",
+    "photo/Pasted image 20250503150849.png",
+    "photo/Pasted image 20250503111024.png",
+    "photo/Pasted image 20250503110807.png",
+    "photo/Pasted image 20250503105540.png",
+    "Redis/3. 持久化篇/3. Redis 大 Key 对持久化有什么影响？.md",
+    "Redis/4. 功能篇",
+    "Redis/3. 持久化篇/2. RDB 快照是怎么实现的？.md",
+    "photo/Pasted image 20250503103922.png",
+    "photo/Pasted image 20250503102751.png",
+    "Redis/3. 持久化篇/1. AOF持久化如何实现的.md",
+    "Redis/集合Set.md",
+    "Redis/2. 数据类型篇/2. Redis 数据结构.md",
+    "Redis/3. 持久化篇",
     "初步使用nvm、npm.md",
     "Go/Golang方法.md",
     "Go/golang-Context.md",
     "Go/深入理解Go module.md",
-    "Redis/数据类型篇/2. Redis 数据结构.md",
-    "Redis/数据类型篇/1. Redis 常见数据类型和应用场景.md",
-    "Redis/面试篇/Redis常见面试题.md",
-    "Redis/数据类型篇",
+    "Redis/2. 数据类型篇/1. Redis 常见数据类型和应用场景.md",
+    "Redis/1. 面试篇/Redis常见面试题.md",
+    "Redis/2. 数据类型篇",
     "操作系统/7.网络系统/4. 什么是一致性哈希？.md",
     "操作系统/7.网络系统/2. selete_poll_epoll.md",
     "Redis/散列表（哈希表、Hash）.md",
     "Redis/列表List.md",
     "Redis/有序集合ZSet.md",
-    "Redis/集合Set.md",
     "Redis/字符串.md",
     "Redis/遍历.md",
     "Redis/Redis基本操作.md",
     "Redis/Redis入门.md",
     "Sql语法.md",
-    "Redis/面试篇",
+    "Redis/1. 面试篇",
     "操作系统/8.Linux命令/1.如何查看网络的性能指标.md",
     "操作系统/8.Linux命令/2.如何从日志分析 PV、UV？.md",
     "操作系统/8.Linux命令",
     "操作系统/7.网络系统/3. 高性能网络模式：Reactor 和 Proactor.md",
-    "操作系统/7.网络系统/1. 什么是零拷贝.md",
-    "操作系统/6.文件系统/2. 进程写文件时，进程发生了崩溃，已写入的数据会丢失吗？.md",
     "操作系统/7.网络系统",
     "操作系统/6.文件系统/7",
-    "操作系统/6.文件系统/1. 文件系统全家桶.md",
-    "操作系统/5.调度算法/进程调度、页面置换、磁盘调度算法.md",
     "操作系统/6.文件系统",
     "操作系统/5.调度算法",
-    "操作系统/4.进程管理",
-    "操作系统/3.内存管理",
-    "操作系统/2.操作系统结构",
     "未命名.canvas",
     "photo/未命名.canvas"
   ]
