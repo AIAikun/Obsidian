@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d2270da0aa0057c0",
+        "id": "4fdcad59659fc3ef",
         "type": "tabs",
         "children": [
           {
-            "id": "b86712e8097075bb",
+            "id": "1cf6b397b67e78e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "初步使用nvm、npm.md",
+                "file": "Redis/6. 缓存篇/2. 数据库和缓存如何保证一致性？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "初步使用nvm、npm"
-            }
-          },
-          {
-            "id": "f7f6bbbd21e16e6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
-            }
-          },
-          {
-            "id": "676defe3cfde8d33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
+              "title": "2. 数据库和缓存如何保证一致性？"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "right": {
     "id": "ed4983156d3aa84f",
@@ -171,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md",
+                "file": "Redis/6. 缓存篇/2. 数据库和缓存如何保证一致性？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Docker 的大纲"
+              "title": "2. 数据库和缓存如何保证一致性？ 的大纲"
             }
           }
         ],
@@ -198,30 +170,35 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "676defe3cfde8d33",
+  "active": "1cf6b397b67e78e6",
   "lastOpenFiles": [
-    "Go/深入理解Go module.md",
-    "Docker.md",
-    "本地使用Nginx部署前后端.md",
+    "Redis/6. 缓存篇/1. 什么是缓存雪崩、击穿、穿透？.md",
+    "Redis/6. 缓存篇/2. 数据库和缓存如何保证一致性？.md",
+    "photo/Pasted image 20250505174224.png",
+    "photo/Pasted image 20250505173927.png",
+    "photo/Pasted image 20250505173032.png",
+    "photo/Pasted image 20250505172324.png",
+    "photo/Pasted image 20250505171931.png",
+    "photo/Pasted image 20250505171838.png",
+    "photo/Pasted image 20250505171823.png",
+    "Redis/5. 高可用篇/3. 为什么要有 cluster 集群？.md",
+    "Redis/6. 缓存篇",
+    "photo/Pasted image 20250505165336.png",
+    "photo/Pasted image 20250505165219.png",
+    "photo/Pasted image 20250505165211.png",
+    "Redis/5. 高可用篇/2. 为什么要有哨兵？.md",
+    "Redis/5. 高可用篇/1. 主从复制是怎么实现的？.md",
     "初步使用nvm、npm.md",
+    "Docker.md",
+    "Go/深入理解Go module.md",
+    "本地使用Nginx部署前后端.md",
     "鉴权.md",
     "Git.md",
     "Linux+Git.md",
     "Linux基础.md",
-    "Redis/5. 高可用篇/1. 主从复制是怎么实现的？.md",
-    "photo/Pasted image 20250504160926.png",
     "Redis/3. 持久化篇/2. RDB 快照是怎么实现的？.md",
-    "photo/Pasted image 20250504160726.png",
-    "photo/Pasted image 20250504160628.png",
     "Redis/4. 功能篇/Redis 过期删除策略和内存淘汰策略有什么区别？.md",
     "Redis/5. 高可用篇",
-    "photo/Pasted image 20250503154656.png",
-    "photo/Pasted image 20250503154637.png",
-    "photo/Pasted image 20250503154410.png",
-    "photo/Pasted image 20250503151632.png",
-    "photo/Pasted image 20250503150849.png",
-    "photo/Pasted image 20250503111024.png",
-    "photo/Pasted image 20250503110807.png",
     "Redis/3. 持久化篇/3. Redis 大 Key 对持久化有什么影响？.md",
     "Redis/4. 功能篇",
     "Redis/3. 持久化篇/1. AOF持久化如何实现的.md",
@@ -236,16 +213,11 @@
     "操作系统/7.网络系统/4. 什么是一致性哈希？.md",
     "操作系统/7.网络系统/2. selete_poll_epoll.md",
     "Redis/散列表（哈希表、Hash）.md",
-    "Redis/列表List.md",
-    "Redis/有序集合ZSet.md",
-    "Redis/字符串.md",
-    "Redis/遍历.md",
     "Redis/1. 面试篇",
     "操作系统/8.Linux命令",
     "操作系统/7.网络系统",
     "操作系统/6.文件系统/7",
     "操作系统/6.文件系统",
-    "操作系统/5.调度算法",
     "未命名.canvas",
     "photo/未命名.canvas"
   ]
