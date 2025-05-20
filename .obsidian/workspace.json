@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis/6. 缓存篇/2. 数据库和缓存如何保证一致性？.md",
+                "file": "6.5840/Lab1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. 数据库和缓存如何保证一致性？"
+              "title": "Lab1"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "ed4983156d3aa84f",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/6. 缓存篇/2. 数据库和缓存如何保证一致性？.md",
+                "file": "6.5840/Lab1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2. 数据库和缓存如何保证一致性？ 的大纲"
+              "title": "Lab1 的大纲"
             }
           }
         ],
@@ -172,6 +171,10 @@
   },
   "active": "1cf6b397b67e78e6",
   "lastOpenFiles": [
+    "操作系统/6.文件系统/1. 文件系统全家桶.md",
+    "6.5840/Lab1.md",
+    "6.5840",
+    "Redis/6. 缓存篇/2. 数据库和缓存如何保证一致性？.md",
     "photo/Pasted image 20250506213516.png",
     "photo/Pasted image 20250506213227.png",
     "photo/Pasted image 20250506213124.png",
@@ -182,11 +185,9 @@
     "photo/Pasted image 20250506210706.png",
     "部署文档.md",
     "photo/main.exe",
-    "Redis/6. 缓存篇/2. 数据库和缓存如何保证一致性？.md",
     "Redis/6. 缓存篇/1. 什么是缓存雪崩、击穿、穿透？.md",
     "photo/Pasted image 20250505174224.png",
     "photo/Pasted image 20250505173927.png",
-    "photo/Pasted image 20250505173032.png",
     "Redis/5. 高可用篇/3. 为什么要有 cluster 集群？.md",
     "Redis/6. 缓存篇",
     "Redis/5. 高可用篇/2. 为什么要有哨兵？.md",
@@ -213,11 +214,9 @@
     "Redis/2. 数据类型篇/1. Redis 常见数据类型和应用场景.md",
     "Redis/1. 面试篇/Redis常见面试题.md",
     "Redis/2. 数据类型篇",
-    "操作系统/7.网络系统/4. 什么是一致性哈希？.md",
     "Redis/1. 面试篇",
     "操作系统/8.Linux命令",
     "操作系统/7.网络系统",
-    "操作系统/6.文件系统/7",
     "未命名.canvas",
     "photo/未命名.canvas"
   ]
