@@ -171,8 +171,9 @@
   },
   "active": "1cf6b397b67e78e6",
   "lastOpenFiles": [
-    "操作系统/6.文件系统/1. 文件系统全家桶.md",
+    "6.5840/Lab2.md",
     "6.5840/Lab1.md",
+    "操作系统/6.文件系统/1. 文件系统全家桶.md",
     "6.5840",
     "Redis/6. 缓存篇/2. 数据库和缓存如何保证一致性？.md",
     "photo/Pasted image 20250506213516.png",
@@ -212,7 +213,6 @@
     "Go/Golang方法.md",
     "Go/golang-Context.md",
     "Redis/2. 数据类型篇/1. Redis 常见数据类型和应用场景.md",
-    "Redis/1. 面试篇/Redis常见面试题.md",
     "Redis/2. 数据类型篇",
     "Redis/1. 面试篇",
     "操作系统/8.Linux命令",
