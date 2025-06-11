@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.5840/Lab1.md",
+                "file": "6.5840/Lab2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab1"
+              "title": "Lab2"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.5840/Lab1.md",
+                "file": "6.5840/Lab2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Lab1 的大纲"
+              "title": "Lab2 的大纲"
             }
           }
         ],
@@ -169,10 +169,25 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "1cf6b397b67e78e6",
+  "active": "600c72498f2e2b66",
   "lastOpenFiles": [
-    "6.5840/Lab2.md",
     "6.5840/Lab1.md",
+    "6.5840/Lab2.md",
+    "Docker.md",
+    "Sql语法.md",
+    "Linux基础.md",
+    "Linux+Git.md",
+    "Git.md",
+    "鉴权.md",
+    "初步使用nvm、npm.md",
+    "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
+    "grpc/客户端和服务端编写.md",
+    "grpc/认证-安全传输.md",
+    "grpc/proto文件编写.md",
+    "grpc/proto文件介绍.md",
+    "grpc/Protobuf安装.md",
+    "grpc/SSL TLS认证方式.md",
+    "MySQL/基础篇/1. 执行一条 select 语句，期间发生了什么？.md",
     "操作系统/6.文件系统/1. 文件系统全家桶.md",
     "6.5840",
     "Redis/6. 缓存篇/2. 数据库和缓存如何保证一致性？.md",
@@ -193,30 +208,15 @@
     "Redis/6. 缓存篇",
     "Redis/5. 高可用篇/2. 为什么要有哨兵？.md",
     "Redis/5. 高可用篇/1. 主从复制是怎么实现的？.md",
-    "初步使用nvm、npm.md",
-    "Docker.md",
     "Go/深入理解Go module.md",
     "本地使用Nginx部署前后端.md",
-    "鉴权.md",
-    "Git.md",
-    "Linux+Git.md",
-    "Linux基础.md",
     "Redis/3. 持久化篇/2. RDB 快照是怎么实现的？.md",
-    "Redis/4. 功能篇/Redis 过期删除策略和内存淘汰策略有什么区别？.md",
     "Redis/5. 高可用篇",
-    "Redis/3. 持久化篇/3. Redis 大 Key 对持久化有什么影响？.md",
     "Redis/4. 功能篇",
-    "Redis/3. 持久化篇/1. AOF持久化如何实现的.md",
-    "Redis/集合Set.md",
-    "Redis/2. 数据类型篇/2. Redis 数据结构.md",
     "Redis/3. 持久化篇",
-    "Go/Golang方法.md",
-    "Go/golang-Context.md",
-    "Redis/2. 数据类型篇/1. Redis 常见数据类型和应用场景.md",
     "Redis/2. 数据类型篇",
     "Redis/1. 面试篇",
     "操作系统/8.Linux命令",
-    "操作系统/7.网络系统",
     "未命名.canvas",
     "photo/未命名.canvas"
   ]

@@ -1,4 +1,7 @@
 ### 6.5840 - 2025年春季  
+[MIT - 6.824 全课程 + Lab 博客总览-CSDN博客](https://blog.csdn.net/weixin_51322383/article/details/132307746)
+[詠夏日記 - Blog](https://blog.yomi.moe/)
+[Kaede's Blog](https://blog.akinokae.de/)
 #### 6.5840 实验1：MapReduce  
 
 ---
