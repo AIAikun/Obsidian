@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4fdcad59659fc3ef",
+        "id": "9f2f55c6cc1e16a6",
         "type": "tabs",
         "children": [
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.5840/Lab3.md",
+                "file": "鉴权.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Lab3 的大纲"
+              "title": "鉴权 的大纲"
             }
           }
         ],
@@ -169,28 +169,8 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "92d274a36d7a816d",
+  "active": "1cf6b397b67e78e6",
   "lastOpenFiles": [
-    "6.5840/Lab2.md",
-    "6.5840/Lab1.md",
-    "6.5840/Lab3.md",
-    "Redis/2. 数据类型篇/1. Redis 常见数据类型和应用场景.md",
-    "Redis/2. 数据类型篇/2. Redis 数据结构.md",
-    "鉴权.md",
-    "photo/Pasted image 20250625162139.png",
-    "photo/Pasted image 20250625162056.png",
-    "跨域问题.md",
-    "photo/Pasted image 20250625102847.png",
-    "photo/Pasted image 20250625101408.png",
-    "Sql语法.md",
-    "Clippings/别在问我跨域问题了，跨域详解以及前端、后端、运维解决的方法统统写在这里了。-腾讯云开发者社区-腾讯云.md",
-    "Clippings",
-    "Go/golang-Context.md",
-    "Go/深入理解Go module.md",
-    "Go/Golang方法.md",
-    "Clippings/【Go语言】小白也能看懂的context包详解：从入门到精通 1.md",
-    "Clippings/【Go语言】小白也能看懂的context包详解：从入门到精通.md",
-    "Clippings/【Go语言】小白也能看懂的context包详解：从入门到精通 2.md",
     "计算机网络/TCP篇.md",
     "计算机网络/IP篇.md",
     "计算机网络/HTTP篇.md",
@@ -202,6 +182,19 @@
     "MySQL/索引篇/1. 索引常见面试题.md",
     "操作系统/4.进程管理/1. 进程、线程基础知识.md",
     "计算机网络/基础篇.md",
+    "Git.md",
+    "Redis/5. 高可用篇/3. 为什么要有 cluster 集群？.md",
+    "Redis/5. 高可用篇/2. 为什么要有哨兵？.md",
+    "Redis/5. 高可用篇/1. 主从复制是怎么实现的？.md",
+    "Sql语法.md",
+    "鉴权.md",
+    "MySQL/事务篇/1. 事务隔离级别是怎么实现的？.md",
+    "MySQL/事务篇/2. MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
+    "MySQL/锁篇/1. MySQL 有哪些锁？.md",
+    "MySQL/索引篇/3.为什么 MySQL 采用 B+ 树作为索引？.md",
+    "MySQL/基础篇/2. MySQL 一行记录是怎么存储的？.md",
+    "MySQL/基础篇/1. 执行一条 select 语句，期间发生了什么？.md",
+    "6.5840/Lab2.md",
     "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
     "6.5840",
     "photo/Pasted image 20250506213516.png",
@@ -210,6 +203,8 @@
     "photo/Pasted image 20250506211742.png",
     "photo/Pasted image 20250506211608.png",
     "photo/Pasted image 20250506211023.png",
+    "photo/Pasted image 20250506210736.png",
+    "photo/Pasted image 20250506210706.png",
     "photo/main.exe",
     "Redis/6. 缓存篇",
     "Redis/5. 高可用篇",

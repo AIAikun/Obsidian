@@ -9,7 +9,7 @@ B站：[https://www.bilibili.com/video/BV1Kr4y1i7ru/]
 ## mysql的使用
 打开
 
-1、打开下载安装好mtsql后的应用——mysql......clint.....unicode,输入密码（输错会闪退）
+1、打开下载安装好mysql后的应用——mysql......clint.....unicode,输入密码（输错会闪退）
 
 2、配置了mysql的path环境后：可以在本机的任意目录的控制面板下（win+r cmd）输入mysql -u root -p
 # 1.SQL通用语法
@@ -102,7 +102,7 @@ show create table 表名;
 4. 创建表结构
     
 
-```Go
+```sql
 creat table 表名(
     字段1 字段1类型 [ comment 字段1注释 ],
     字段2 字段2类型 [ comment 字段2注释 ],
@@ -111,6 +111,12 @@ creat table 表名(
     字段n 字段n注释 [ comment 字段n注释 ]
     }[comment 表注释]
 ```
+ create table 表名(
+   字段1 字段1类型 [comment 字段1注释]，
+   ==id int comment '编号',==
+   字段2 字段2类型 [comment 字段2注释]，
+   ==name varchar(50) comment '姓名',==
+   )[comment 表注释]；
 
 注：[...]为可选参数，最后一个字段后面没有逗号
 
@@ -134,10 +140,13 @@ MySQL中的数据类型有很多，主要分为三类：数值类型、字符串
 1. 添加字段
     
 
-```Go
+```sql
 ALTER TABLE 表名 ADD 字段名 类型 (长度) [ COMMENT 注释 ] [ 约束 ];
 ```
 
+```sql
+alter table mytable add nickname varchar(20) comment '昵称'；
+```
 2. 修改数据类型
     
 
@@ -148,10 +157,13 @@ ALTER TABLE 表名 MODIFY 字段名 新数据类型 (长度);
 3. 修改字段名和字段类型
     
 
-```Go
+```sql
 ALTER TABLE 表名 CHANGE 旧字段名 新字段名 类型 (长度) [ COMMENT 注释 ] [ 约束 ];
 ```
 
+```sql
+ alter table mytable change nickname username varchar(30) comment '昵称'；
+```
 4. 删除字段
     
 
@@ -260,7 +272,7 @@ DELETE FROM 表名 [ WHERE 条件 ] ;
 DQL英文全称是Data Query Language(数据查询语言)，数据查询语言，用来查询数据库中表的记录。
 
 查询关键字: SELECT
-
+![[Pasted image 20241120230421 1.png]]
 ## 1.基本语法
     
 
@@ -303,7 +315,7 @@ limit
 
 在基本查询的DQL语句中，不带任何的查询条件，查询的语法如下：
 
-### 2.查询多个字段
+### 1.查询多个字段
     
 
 ```Go
@@ -353,7 +365,7 @@ SELECT 字段列表 FROM 表名 WHERE 条件列表 ;
 3. 语法
     
 
-```Go
+```sql
 SELECT 聚合函数(字段列表) FROM 表名 ;
 ```
 
@@ -426,12 +438,40 @@ SELECT 字段列表 FROM 表名 LIMIT 起始索引, 查询记录数 ;
     
 - 如果查询的是第一页数据，起始索引可以省略，直接简写为 limit 10。
     
-
-## 8.执行顺序
-    
-
+## 8.多表查询
+[多表查询网站](https://liaoxuefeng.com/books/sql/query/multi-tables/index.html)
+[连接查询网站](https://liaoxuefeng.com/books/sql/query/join/index.html)
+#### 1.概述&&分类
+直接`select * from table_a, table_b;`会出现笛卡尔积现象。
+![[Pasted image 20250728232138_副本.png]]
+分类：
+![[Pasted image 20250728230652.png]]
+#### 2.多表关系
+一对多：
+![[Pasted image 20250728231005.png]]
+多对多：
+![[Pasted image 20250728231608.png]]
+一对一：
+![[Pasted image 20250728231534.png]]
+#### 3. 连接查询
+内连接：现在一般用显式内连接
+![[Pasted image 20250728232713.png]]
+外连接：
+![[Pasted image 20250728233159.png]]
+	example：
+1. 查询员工（emp表）所有数据，和对应的部门（dept表）信息 ![[Pasted image 20250728234015.png]]
+2. 右连接![[Pasted image 20250728233933.png]]
+## 9.执行顺序
 已经学习了DQL语句的完整语法，及编写顺序，接下来，我们要来说明的是DQL语句在执行时的执行顺序，也就是先执行哪一部分，后执行哪一部分。
 ![[Pasted image 20241006211606.png]]
+
+| 步骤  | 执行内容                                                    |
+| --- | ------------------------------------------------------- |
+| 1️⃣ | `FROM recharge e`：加载主表数据（给 recharge 起别名为 `e`）           |
+| 2️⃣ | `JOIN ... ON ...`：执行 JOIN（这里是 LEFT JOIN），合并 user 子查询的数据 |
+| 3️⃣ | `SELECT`：从 JOIN 后的结果中选择需要的字段                            |
+| 4️⃣ | `GROUP BY`（如果有的话）                                       |
+| 5️⃣ | `ORDER BY`、`LIMIT`（最后）                                  |
 
 # 6.DCL
     
