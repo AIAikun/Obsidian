@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.5840/Lab3.md",
+                "file": "数据库/PostgreSQL与MySql.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab3"
+              "title": "PostgreSQL与MySql"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鉴权.md",
+                "file": "数据库/PostgreSQL与MySql.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "鉴权 的大纲"
+              "title": "PostgreSQL与MySql 的大纲"
             }
           }
         ],
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -169,32 +170,35 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "1cf6b397b67e78e6",
+  "active": "92d274a36d7a816d",
   "lastOpenFiles": [
+    "photo/Pasted image 20250913122249.png",
+    "数据库/数据库UUID和自增ID优劣势.md",
+    "数据库/PostgreSQL与MySql.md",
+    "数据库/Sql语法.md",
+    "数据库",
+    "数据库/MySQL/索引篇/7.count() 和 count(1) 有什么区别？哪个性能最好？.md",
+    "数据库/MySQL/索引篇/6. MySQL 使用 like“%x“，索引一定会失效吗？.md",
+    "数据库/MySQL/索引篇/4.MySQL 单表不要超过 2000W 行，靠谱吗？.md",
+    "数据库/MySQL/索引篇/2. 从数据页的角度看 B+ 树.md",
+    "6.5840/Lab3.md",
+    "6.5840/Lab1.md",
     "计算机网络/TCP篇.md",
     "计算机网络/IP篇.md",
     "计算机网络/HTTP篇.md",
     "操作系统/4.进程管理/2. 进程间的通信方式.md",
     "Redis/3. 持久化篇/3. Redis 大 Key 对持久化有什么影响？.md",
-    "MySQL/日志篇/MySQL 日志：undo log、redo log、binlog 有什么用？.md",
+    "数据库/MySQL/日志篇/MySQL 日志：undo log、redo log、binlog 有什么用？.md",
     "面经.md",
     "Redis/1. 面试篇/Redis常见面试题.md",
-    "MySQL/索引篇/1. 索引常见面试题.md",
+    "数据库/MySQL/索引篇/1. 索引常见面试题.md",
     "操作系统/4.进程管理/1. 进程、线程基础知识.md",
     "计算机网络/基础篇.md",
     "Git.md",
     "Redis/5. 高可用篇/3. 为什么要有 cluster 集群？.md",
     "Redis/5. 高可用篇/2. 为什么要有哨兵？.md",
     "Redis/5. 高可用篇/1. 主从复制是怎么实现的？.md",
-    "Sql语法.md",
     "鉴权.md",
-    "MySQL/事务篇/1. 事务隔离级别是怎么实现的？.md",
-    "MySQL/事务篇/2. MySQL 可重复读隔离级别，完全解决幻读了吗？.md",
-    "MySQL/锁篇/1. MySQL 有哪些锁？.md",
-    "MySQL/索引篇/3.为什么 MySQL 采用 B+ 树作为索引？.md",
-    "MySQL/基础篇/2. MySQL 一行记录是怎么存储的？.md",
-    "MySQL/基础篇/1. 执行一条 select 语句，期间发生了什么？.md",
-    "6.5840/Lab2.md",
     "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
     "6.5840",
     "photo/Pasted image 20250506213516.png",
