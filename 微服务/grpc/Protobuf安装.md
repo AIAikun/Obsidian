@@ -1,5 +1,5 @@
 # 1. 下载protocol buffers
-- https://github.com/protocolbuffers/protobuf/releases
+- [https://github.com/protocolbuffers/protobuf/releases](https://github.com/protocolbuffers/protobuf/releases)
 - ![[Pasted image 20240730213321.png]]
 - 解压下载好的.zip文件后，配置环境变量
 	`vim .zshrc`
