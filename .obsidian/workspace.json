@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92d274a36d7a816d",
+            "id": "84b9e1b8554c9a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微服务/grpc/proto文件介绍.md",
+                "file": "消息队列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "proto文件介绍"
+              "title": "消息队列"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微服务/grpc/proto文件介绍.md",
+                "file": "消息队列.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "proto文件介绍 的大纲"
+              "title": "消息队列 的大纲"
             }
           }
         ],
@@ -170,10 +170,29 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "92d274a36d7a816d",
+  "active": "600c72498f2e2b66",
   "lastOpenFiles": [
-    "微服务/grpc/proto文件编写.md",
+    "photo/Pasted image 20251214194213.png",
+    "photo/Pasted image 20251214193719.png",
+    "photo/Pasted image 20251214193447.png",
+    "photo/Pasted image 20251214193446.png",
+    "Clippings/消息队列面试题.md",
+    "消息队列.md",
+    "Clippings",
+    "photo/Pasted image 20251214193055.png",
+    "photo/Pasted image 20251214193053.png",
+    "Kafka RabbitMQ.md",
+    "photo/Pasted image 20251214170423.png",
+    "photo/Pasted image 20251214170421.png",
+    "photo/Pasted image 20251214170131.png",
+    "photo/Pasted image 20251214164805.png",
+    "photo/Pasted image 20251214164532.png",
+    "操作系统/7.网络系统/1. 什么是零拷贝.md",
+    "初步使用nvm、npm.md",
+    "亿趣笔记.md",
+    "Git.md",
     "微服务/grpc/proto文件介绍.md",
+    "微服务/grpc/proto文件编写.md",
     "微服务/grpc/Protobuf安装.md",
     "微服务/grpc/grpc介绍.md",
     "微服务/RPC.md",
@@ -183,36 +202,17 @@
     "微服务/grpc/Token认证.md",
     "微服务/grpc/客户端和服务端编写.md",
     "微服务/grpc/认证-安全传输.md",
-    "photo/Pasted image 20251210193401.png",
-    "photo/Pasted image 20251210193241.png",
-    "Kafka RabbitMQ.md",
     "6.5840/Lab5.md",
     "6.5840/Lab4.md",
     "6.5840/参考文章.md",
     "6.5840/Lab3.md",
     "6.5840/Lab2.md",
     "6.5840/Lab1.md",
-    "photo/Pasted image 20251028120616.png",
     "数据库/分库分表.md",
     "提现业务.md",
-    "跨域问题.md",
-    "photo/Pasted image 20251023214429.png",
-    "Linux基础.md",
-    "sqlx.md",
-    "Linux+Git.md",
-    "亿趣笔记.md",
-    "数据库/PostgreSQL与MySql.md",
-    "Clippings",
-    "photo/Pasted image 20250913122249.png",
-    "数据库/数据库UUID和自增ID优劣势.md",
     "数据库",
     "UniqueStdio-Summer-Camp/WebSummerCamp2024后端第0期任务.pdf",
     "6.5840",
-    "photo/Pasted image 20250506213516.png",
-    "photo/Pasted image 20250506213227.png",
-    "photo/Pasted image 20250506213124.png",
-    "photo/Pasted image 20250506211742.png",
-    "photo/Pasted image 20250506211608.png",
     "photo/main.exe",
     "Redis/6. 缓存篇",
     "Redis/5. 高可用篇",
