@@ -38,10 +38,6 @@ func Monitor(ctx context.Context)  {
 
 ## context包的起源与作用
 
-看官方博客我们可以知道 `context` 包是在 `go1.7` 版本中引入到标准库中的：
-
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c0d332914b0c44ae8706589eaef6ebaa~tplv-k3u1fbpfcp-zoom-1.image" style="zoom:50%;" />
-
 `context` 可以用来在 `goroutine` 之间传递上下文信息，相同的 `context` 可以传递给运行在不同 `goroutine` 中的函数，上下文对于多个 `goroutine` 同时使用是安全的， `context` 包定义了上下文类型，可以使用 `background` 、 `TODO` 创建一个上下文，在函数调用链之间传播 `context` ，也可以使用 `WithDeadline` 、 `WithTimeout` 、 `WithCancel` 或 `WithValue` 创建的修改副本替换它，听起来有点绕，其实总结起就是一句话： `context` 的作用就是在不同的 `goroutine` 之间同步请求特定的数据、取消信号以及处理请求的截止日期。
 
 目前我们常用的一些库都是支持 `context` 的，例如 `gin` 、 `database/sql` 等库都是支持 `context` 的，这样更方便我们做并发控制了，只要在服务器入口创建一个 `context` 上下文，不断透传下去即可。
@@ -131,7 +127,7 @@ Process finished with the exit code 0
 
 - 不建议使用 `context` 值传递关键参数，关键参数应该显示的声明出来，不应该隐式处理， `context` 中最好是携带签名、 `trace_id` 这类值。
 - 因为携带 `value` 也是 `key` 、 `value` 的形式，为了避免 `context` 因多个包同时使用 `context` 而带来冲突， `key` 建议采用内置类型。
-- 上面的例子我们获取 `trace_id` 是直接从当前 `ctx` 获取的，实际我们也可以获取父 `context` 中的 `value` ，在获取键值对是，我们先从当前 `context` 中查找，没有找到会在从父 `context` 中查找该键对应的值直到在某个父 `context` 中返回 `nil` 或者查找到对应的值。
+- 上面的例子我们获取 `trace_id` 是直接从当前 `ctx` 获取的，实际我们也可以获取父 `context` 中的 `value` ，在获取键值对时，我们先从当前 `context` 中查找，没有找到会在从父 `context` 中查找该键对应的值直到在某个父 `context` 中返回 `nil` 或者查找到对应的值。
 - `context` 传递的数据中 `key` 、 `value` 都是 `interface` 类型，这种类型编译期无法确定类型，所以不是很安全，所以在类型断言时别忘了保证程序的健壮性。
 
 ### 超时控制
